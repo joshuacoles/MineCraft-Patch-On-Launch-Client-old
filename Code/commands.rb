@@ -2,7 +2,9 @@ require "java"
 
 require 'open3'
 
-require_relative "retroguard.jar"
+require  "/Users/joshuac/RubymineProjects/Patch on Launch/Code/retroguard.jar"
+
+require 'fileutils'
 
 module Commands
   #puts "Starting"
@@ -22,21 +24,27 @@ module Commands
   end
 
   def Commands.de_compile
-
     Dir.chdir("../../../Users/joshuac")
     #puts Dir.getwd
     #run_shell_command "ls"
     Dir.chdir("RubymineProjects/Patch on Launch/")
-    run_shell_command "ls"
     Dir.chdir("Code/vanilla")
-    run_shell_command("cp minecraft.jar")
+    puts Dir.getwd
+    FileUtils.cp("minecraft.jar", "minecraft_Run.jar")
+    run_shell_command("ls")
+    run_shell_command ("java RetroGuard minecraft_Run.jar minecraft_dobf.jar")
 
   end
 
+  def Commands.launch
+    run_shell_command(LAUNCH_COMMAND)
+  end
+
+  # Old stuff
 
   def Commands.prep
     Dir.chdir("vinilla")
-      run_shell_command("cp minecraft.jar ../Code/mcp/jars")
+    run_shell_command("cp minecraft.jar ../Code/mcp/jars")
     Dir.chdir("../")
   end
 
@@ -58,10 +66,6 @@ module Commands
     run_shell_command("./recompile.sh")
     run_shell_command("./reobfuscate.sh")
     Dir.chdir("../")
-  end
-
-  def Commands.run
-    run_shell_command(LAUNCH_COMMAND)
   end
 
   def Commands.foo
