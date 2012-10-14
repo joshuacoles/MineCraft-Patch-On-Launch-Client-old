@@ -17,6 +17,19 @@ module Commands
     puts "  Errors [#{errors}]"
   end
 
+  def Commands.de_compile
+
+    Dir.chdir("../../../Users/joshuac")
+    #puts Dir.getwd
+    #run_shell_command "ls"
+    Dir.chdir("RubymineProjects/Patch on Launch/")
+    run_shell_command "ls"
+    Dir.chdir("Code/vanilla")
+
+
+  end
+
+
   def Commands.prep
     Dir.chdir("vinilla")
       run_shell_command("cp minecraft.jar ../Code/mcp/jars")
