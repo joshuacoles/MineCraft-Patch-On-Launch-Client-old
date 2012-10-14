@@ -24,11 +24,7 @@ module Commands
   end
 
   def Commands.de_compile
-    Dir.chdir("../../../Users/joshuac")
-    #puts Dir.getwd
-    #run_shell_command "ls"
-    Dir.chdir("RubymineProjects/Patch on Launch/")
-    Dir.chdir("Code/vanilla")
+    Dir.chdir("../../../Users/joshuac/RubymineProjects/Patch on Launch/Code/vanilla")
     puts Dir.getwd
     FileUtils.cp("minecraft.jar", "minecraft_Run.jar")
     run_shell_command("ls")
