@@ -1,4 +1,8 @@
+require "java"
+
 require 'open3'
+
+require_relative "retroguard.jar"
 
 module Commands
   #puts "Starting"
