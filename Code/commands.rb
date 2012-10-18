@@ -26,9 +26,10 @@ module Commands
   def Commands.de_compile
     Dir.chdir("../../../Users/joshuac/RubymineProjects/Patch on Launch/Code/vanilla")
     puts Dir.getwd
-    FileUtils.cp("minecraft.jar", "minecraft_Run.jar")
-    run_shell_command("ls")
-    run_shell_command ("java RetroGuard minecraft_Run.jar minecraft_dobf.jar")
+    #TODO Fix bug/crash later but HomeWork now.
+    FileUtils.cp("minecraft.jar", '../Work/RG/minecraft_Run.jar')
+    #run_shell_command("ls")
+    #run_shell_command ("java RetroGuard minecraft_Run.jar minecraft_dobf.jar")
 
   end
 
