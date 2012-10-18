@@ -2,6 +2,130 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a4041ab-2344-4974-abf1-7370bbb6b382" name="Default" comment="Set require java a retroguard">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/fernflower.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/mcinjector.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/ClassEntry.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/FieldEntry.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/MapSignatureAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/MethodEntry.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/NameProvider.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/PackageEntry.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/Cl$ExtNameListUp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/Cl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/ClassTree$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/ClassTree$10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/ClassTree$11.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/ClassTree$12.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/ClassTree$13.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/ClassTree$14.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/ClassTree$15.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/ClassTree$16.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/ClassTree$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/ClassTree$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/ClassTree$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/ClassTree$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/ClassTree$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/ClassTree$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/ClassTree$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/ClassTree$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/ClassTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/Fd.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/GuardDB$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/GuardDB.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/Md.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/MdFd.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/NameListDown.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/NameListUp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/PatternList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/Pk.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/PkCl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/PlaceholderCl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/RGSException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/RetroGuardImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/RgsEntry.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/RgsEntryType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/RgsEnum$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/RgsEnum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/SimpleName.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/TreeAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/TreeItem.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/Version.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/AnnotationDefaultAttrInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/AnnotationInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/AnnotationsAttrInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/AttrInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/BootstrapMethodsAttrInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/ClassConstants$AttrSource.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/ClassConstants.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/ClassCpInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/ClassFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/ClassFileException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/ClassItemInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/CodeAttrInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/ConstantPool$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/ConstantPool$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/ConstantPool$PoolAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/ConstantPool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/ConstantValueAttrInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/CpInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/DeprecatedAttrInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/DoubleCpInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/EnclosingMethodAttrInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/ExceptionInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/ExceptionsAttrInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/FieldInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/FieldrefCpInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/FlagHashtable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/FloatCpInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/InnerClassesAttrInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/InnerClassesInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/IntegerCpInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/InterfaceMethodrefCpInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/InvokeDynamicCpInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/LineNumberInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/LineNumberTableAttrInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/LocalVariableInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/LocalVariableTableAttrInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/LocalVariableTypeInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/LocalVariableTypeTableAttrInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/LongCpInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/MemberValueInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/MemberValuePairInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/MethodHandleCpInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/MethodInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/MethodTypeCpInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/MethodrefCpInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/NameAndTypeCpInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/NameMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/ParameterAnnotationsAttrInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/ParameterAnnotationsInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/RefCpInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/RuntimeInvisibleAnnotationsAttrInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/RuntimeInvisibleParameterAnnotationsAttrInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/RuntimeVisibleAnnotationsAttrInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/RuntimeVisibleParameterAnnotationsAttrInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/SignatureAttrInfo$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/SignatureAttrInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/SourceFileAttrInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/StackMapFrameInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/StackMapTableAttrInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/StringCpInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/StringCpInfoFlags.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/SyntheticAttrInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/Utf8CpInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/obf/classfile/VerificationTypeInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/util/Tools.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/util/rfc822/Header.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/util/rfc822/Section.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/COM/rl/util/rfc822/SectionList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/RetroGuard.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/org/objectweb/asm/signature/SignatureException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/org/objectweb/asm/signature/SignatureReader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/org/objectweb/asm/signature/SignatureVisitor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/retroguard/org/objectweb/asm/signature/SignatureWriter.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Code/commands.rb" afterPath="$PROJECT_DIR$/Code/commands.rb" />
     </list>
     <ignored path="Patch on Launch.iws" />
@@ -33,7 +157,16 @@
       <file leaf-file-name="commands.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Code/commands.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="85" selection-start="812" selection-end="812" vertical-scroll-proportion="0.7392197">
+            <state line="28" column="47" selection-start="879" selection-end="879" vertical-scroll-proportion="0.18442623">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom_require.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.rvm/rubies/jruby-1.6.7.2/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="0" selection-start="1040" selection-end="1040" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -42,16 +175,7 @@
       <file leaf-file-name="dir.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$APPLICATION_HOME_DIR$/rubystubs19/dir.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="47" selection-start="2096" selection-end="2096" vertical-scroll-proportion="-4.9615383">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="55" column="47" selection-start="2096" selection-end="2096" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -79,7 +203,6 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
     <option name="y" value="22" />
     <option name="width" value="1916" />
     <option name="height" value="813" />
@@ -110,7 +233,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -145,6 +267,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -252,23 +375,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="22" width="1916" height="813" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="22" width="1916" height="813" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32882273" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32882273" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32839963" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14010695" sideWeight="0.7360335" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14331551" sideWeight="0.73743016" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2366127" sideWeight="0.076757535" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26396647" sideWeight="0.9967914" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26256984" sideWeight="0.9967914" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32882273" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32839963" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -328,6 +451,48 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Code/run.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="32" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/commands.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="85" selection-start="812" selection-end="812" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs19/dir.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="47" selection-start="2096" selection-end="2096" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/run.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="32" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/commands.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="85" selection-start="812" selection-end="812" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs19/dir.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="47" selection-start="2096" selection-end="2096" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Code/commands.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="50" selection-start="543" selection-end="543" vertical-scroll-proportion="0.0">
@@ -349,14 +514,21 @@
     </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/rubystubs19/dir.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="47" selection-start="2096" selection-end="2096" vertical-scroll-proportion="-4.9615383">
+        <state line="55" column="47" selection-start="2096" selection-end="2096" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/rubies/jruby-1.6.7.2/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="0" selection-start="1040" selection-end="1040" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Code/commands.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="85" selection-start="812" selection-end="812" vertical-scroll-proportion="0.7392197">
+        <state line="28" column="47" selection-start="879" selection-end="879" vertical-scroll-proportion="0.18442623">
           <folding />
         </state>
       </provider>
