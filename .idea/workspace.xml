@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a4041ab-2344-4974-abf1-7370bbb6b382" name="Default" comment="Set require java a retroguard">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/minecraft_Run.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/vanilla/minecraft_Run.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Code/Work/RG/minecraft_dobf.jar" afterPath="$PROJECT_DIR$/Code/Work/RG/minecraft_dobf.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/joshuac.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/joshuac.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Code/Work/RG/retroguard/retroguard.log" afterPath="$PROJECT_DIR$/Code/Work/RG/retroguard/retroguard.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Code/commands.rb" afterPath="$PROJECT_DIR$/Code/commands.rb" />
@@ -27,7 +29,7 @@
       <file leaf-file-name="run.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Code/run.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="32" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0">
+            <state line="0" column="21" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -36,7 +38,16 @@
       <file leaf-file-name="commands.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Code/commands.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="3" selection-start="1213" selection-end="1213" vertical-scroll-proportion="0.42418033">
+            <state line="41" column="4" selection-start="1198" selection-end="1198" vertical-scroll-proportion="0.4568528">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fileutils.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.rvm/rubies/jruby-1.6.7.2/lib/ruby/1.9/fileutils.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1278" column="0" selection-start="35525" selection-end="35525" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -83,8 +94,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="1916" />
-    <option name="height" value="813" />
+    <option name="width" value="1920" />
+    <option name="height" value="1113" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -254,18 +265,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1916" height="813" extended-state="0" />
+    <frame x="0" y="22" width="1920" height="1113" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282123" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282123" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14331551" sideWeight="0.73743016" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1430096" sideWeight="0.81496066" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39944133" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2366127" sideWeight="0.076757535" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26256984" sideWeight="0.9967914" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18503937" sideWeight="0.9967914" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32882273" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -384,13 +395,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code/run.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="32" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/rubystubs19/dir.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="55" column="47" selection-start="2096" selection-end="2096" vertical-scroll-proportion="0.0">
@@ -405,9 +409,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Code/run.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="21" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/rubies/jruby-1.6.7.2/lib/ruby/1.9/fileutils.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1278" column="0" selection-start="35525" selection-end="35525" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Code/commands.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="3" selection-start="1213" selection-end="1213" vertical-scroll-proportion="0.42418033">
+        <state line="41" column="4" selection-start="1198" selection-end="1198" vertical-scroll-proportion="0.4568528">
           <folding />
         </state>
       </provider>
