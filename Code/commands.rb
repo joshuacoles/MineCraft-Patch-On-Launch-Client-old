@@ -27,24 +27,38 @@ module Commands
 
   def Commands.de_compile
     Dir.chdir("../../../Users/joshuac/RubymineProjects/Patch on Launch/Code/")
-    retroguard()
+    #run_shell_command("ls",true)
+    retroguard(false)
   end
 
-  def Commands.retroguard
-    FileUtils.cp("vanilla/minecraft.jar", '../Work/RG/minecraft_Run.jar')
-    Dir.chdir("../Work/RG/retroguard")
+  def Commands.retroguard(run)
+    #puts Dir.getwd
+    FileUtils.cp("vanilla/minecraft.jar", 'Work/RG/minecraft_Run.jar')
+    Dir.chdir("Work/RG/retroguard")
+    if run
+      run_shell_command("java RetroGuard ../minecraft_Run.jar ../minecraft_dobf.jar", false)
+    end
+    Dir.chdir("../../..")
     puts Dir.getwd
-    run_shell_command("java RetroGuard ../minecraft_Run.jar ../minecraft_dobf.jar" , false)
+  end
+
+  def Commands.fernflower
 
   end
 
   def Commands.launch
-    run_shell_command(LAUNCH_COMMAND,false)
+    run_shell_command(LAUNCH_COMMAND, true)
   end
 
   def Commands.cleanup
 
   end
+
+
+
+
+
+
   # Old stuff
 
   def Commands.prep
