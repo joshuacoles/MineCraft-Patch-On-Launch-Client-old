@@ -29,6 +29,7 @@ module Commands
     Dir.chdir("../../../Users/joshuac/RubymineProjects/Patch on Launch/Code/")
     #run_shell_command("ls",true)
     retroguard(false)
+    fernflower(false)
   end
 
   def Commands.retroguard(run)
@@ -42,8 +43,14 @@ module Commands
     puts Dir.getwd
   end
 
-  def Commands.fernflower
-
+  def Commands.fernflower(run)
+    FileUtils.cp("Work/RG/minecraft_dobf.jar","Work/FF/")
+    Dir.chdir("Work/FF/fernflower")
+    if run
+      run_shell_command("java -jar minecraft_dobf.jar minecraft_RG_FF",false)
+    end
+    Dir.chdir("../../..")
+    puts Dir.getwd
   end
 
   def Commands.launch
