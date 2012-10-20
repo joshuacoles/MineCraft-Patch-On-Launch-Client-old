@@ -1,7 +1,7 @@
 require "java"
 
 require 'open3'
-
+require 'zip/zip'
 #require  "/Users/joshuac/RubymineProjects/Patch on Launch/Code/retroguard.jar"
 
 require 'fileutils'
@@ -27,30 +27,33 @@ module Commands
 
   def Commands.de_compile
     Dir.chdir("../../../Users/joshuac/RubymineProjects/Patch on Launch/Code/")
-    #run_shell_command("ls",true)
-    retroguard(false)
-    fernflower(false)
+    retroguard()
+    fernflower()
   end
 
-  def Commands.retroguard(run)
+  def Commands.retroguard(run = true)
     #puts Dir.getwd
     FileUtils.cp("vanilla/minecraft.jar", 'Work/RG/minecraft_Run.jar')
     Dir.chdir("Work/RG/retroguard")
     if run
       run_shell_command("java RetroGuard ../minecraft_Run.jar ../minecraft_dobf.jar", false)
+      FileUtils.rm("../minecraft_Run.jar")
     end
     Dir.chdir("../../..")
-    puts Dir.getwd
+    #puts Dir.getwd
   end
 
-  def Commands.fernflower(run)
-    FileUtils.cp("Work/RG/minecraft_dobf.jar","Work/FF/")
-    Dir.chdir("Work/FF/fernflower")
+  def Commands.fernflower(run = true)
+    FileUtils.mv("Work/RG/minecraft_dobf.jar","Work/FF/")
+    Dir.chdir("Work/FF/")
     if run
-      run_shell_command("java -jar minecraft_dobf.jar minecraft_RG_FF",false)
+      run_shell_command("java -jar fernflower.jar minecraft_dobf.jar .",false)
+      #File.rename("minecraft_RG_FF/minecraft_dobf.jar","minecraftJar")
+      FileUtils.rm("minecraft_dobf.jar")
+
     end
     Dir.chdir("../../..")
-    puts Dir.getwd
+    #puts Dir.getwd
   end
 
   def Commands.launch
