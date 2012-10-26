@@ -1,14 +1,10 @@
 require "java"
 
 require 'open3'
-#require 'zip/zip'
-#require  "/Users/joshuac/RubymineProjects/Patch on Launch/Code/retroguard.jar"
-
+require 'zip/zip'
 require 'fileutils'
 
 module Commands
-  #puts "Starting"
-
   LAUNCH_COMMAND = '/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin/java -Xms512M -Xmx1024M -Xincgc -cp "/Applications/Minecraft.app/Contents/Resources/Java/MinecraftLauncher.jar" net.minecraft.LauncherFrame'
 
   def Commands.run_shell_command(command, out)
@@ -25,37 +21,40 @@ module Commands
     end
   end
 
+  #TODO Make time keeper method to check time taken by each process.
+
   def Commands.de_compile
     Dir.chdir("../../../Users/joshuac/RubymineProjects/Patch on Launch/Code/")
     retroguard()
     fernflower()
+    #Patch()
   end
 
   def Commands.retroguard(run = true)
-    #puts Dir.getwd
     FileUtils.cp("vanilla/minecraft.jar", 'Work/RG/minecraft_Run.jar')
-    Dir.chdir("Work/RG/retroguard")
     if run
-      run_shell_command("java RetroGuard ../minecraft_Run.jar ../minecraft_dobf.jar", false)
+      Dir.chdir("Work/RG/retroguard")
+      run_shell_command("java -jar retroguard.jar ../minecraft_Run.jar ../minecraft_dobf.jar", false)
       FileUtils.rm("../minecraft_Run.jar")
+      Dir.chdir("../../..")
     end
-    Dir.chdir("../../..")
-    #puts Dir.getwd
   end
 
   def Commands.fernflower(run = true)
-    FileUtils.mv("Work/RG/minecraft_dobf.jar","Work/FF/")
-    Dir.chdir("Work/FF/")
+    FileUtils.mv("Work/RG/minecraft_dobf.jar", "Work/FF/")
     if run
-      run_shell_command("java -jar fernflower.jar minecraft_dobf.jar Decomp",false)
-      File.rename("Decomp/minecraft_dobf.jar","Decomp/minecraftJar.jar")
+      Dir.chdir("Work/FF/")
+      run_shell_command("java -jar fernflower.jar minecraft_dobf.jar Decomp", false)
+      File.rename("Decomp/minecraft_dobf.jar", "Decomp/minecraftJar.jar")
       FileUtils.rm("minecraft_dobf.jar")
-      Dir.chdir("Decomp")
-      run_shell_command("unzip minecraftJar.jar",true)
-      FileUtils.rm("minecraftJar.jar")
+      if Dir.entries("Decomp").size <= 2 || Dir.entries("Decomp").include?("minecraftJar.jar")
+          puts("Unzipping")
+        Dir.chdir("Decomp")
+        run_shell_command("unzip minecraftJar.jar", true)
+        FileUtils.rm("minecraftJar.jar")
+      end
+      Dir.chdir("../../..")
     end
-    Dir.chdir("../../..")
-    puts Dir.getwd
   end
 
   def Commands.launch
@@ -63,7 +62,9 @@ module Commands
   end
 
   def Commands.patch
-   run_shell_command("patch ",true)
+    Dir.getwd()
+    Dir.chdir("Code/Work/FF/Decomp")
+    run_shell_command("patch ../../../../Patches/* ",true)
   end
 
   def Commands.cleanup

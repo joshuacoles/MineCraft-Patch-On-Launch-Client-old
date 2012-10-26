@@ -11,7 +11,7 @@ require_relative "commands"
 puts "Starting..."
 
 def start()
-  #Commands.foo
+  #Commands.fo o
   Commands.de_compile
   #Commands.launch
 end
