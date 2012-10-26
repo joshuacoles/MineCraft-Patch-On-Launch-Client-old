@@ -1,7 +1,7 @@
 require "java"
 
 require 'open3'
-require 'zip/zip'
+#require 'zip/zip'
 #require  "/Users/joshuac/RubymineProjects/Patch on Launch/Code/retroguard.jar"
 
 require 'fileutils'
@@ -47,54 +47,27 @@ module Commands
     FileUtils.mv("Work/RG/minecraft_dobf.jar","Work/FF/")
     Dir.chdir("Work/FF/")
     if run
-      run_shell_command("java -jar fernflower.jar minecraft_dobf.jar .",false)
-      #File.rename("minecraft_RG_FF/minecraft_dobf.jar","minecraftJar")
+      run_shell_command("java -jar fernflower.jar minecraft_dobf.jar Decomp",false)
+      File.rename("Decomp/minecraft_dobf.jar","Decomp/minecraftJar.jar")
       FileUtils.rm("minecraft_dobf.jar")
-
+      Dir.chdir("Decomp")
+      run_shell_command("unzip minecraftJar.jar",true)
+      FileUtils.rm("minecraftJar.jar")
     end
     Dir.chdir("../../..")
-    #puts Dir.getwd
+    puts Dir.getwd
   end
 
   def Commands.launch
     run_shell_command(LAUNCH_COMMAND, true)
   end
 
+  def Commands.patch
+   run_shell_command("patch ",true)
+  end
+
   def Commands.cleanup
 
-  end
-
-
-
-
-
-
-  # Old stuff
-
-  def Commands.prep
-    Dir.chdir("vinilla")
-    run_shell_command("cp minecraft.jar ../Code/mcp/jars",false)
-    Dir.chdir("../")
-  end
-
-  def Commands.patch
-    Dir.chdir("../patches")
-    run_shell_command("patch */*",false)
-    Dir.chdir("../Code")
-  end
-
-  def Commands.install
-    Dir.chdir("mcp")
-    Dir.chdir("forge")
-    run_shell_command("./install.sh",true)
-    Dir.chdir("../..")
-  end
-
-  def Commands.remake
-    Dir.chdir("mcp")
-    run_shell_command("./recompile.sh",true)
-    run_shell_command("./reobfuscate.sh",true)
-    Dir.chdir("../")
   end
 
   def Commands.foo

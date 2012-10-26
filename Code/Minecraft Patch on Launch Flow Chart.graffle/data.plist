@@ -46,11 +46,41 @@
 	<key>Creator</key>
 	<string>Joshua Coles</string>
 	<key>DisplayScale</key>
-	<string>1 0/72 in = 1 0/72 in</string>
+	<string>1 0/72 in = 1.0000 in</string>
 	<key>GraphDocumentVersion</key>
 	<integer>8</integer>
 	<key>GraphicsList</key>
 	<array>
+		<dict>
+			<key>Bounds</key>
+			<string>{{339, 236.5}, {11.824742317199707, 31.000000128874909}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>51</integer>
+			<key>ImageID</key>
+			<integer>3</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+		</dict>
 		<dict>
 			<key>Bounds</key>
 			<string>{{472.29897117614746, 688}, {11.824742317199707, 31.000000128874909}}</string>
@@ -238,36 +268,6 @@
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>44</integer>
-			<key>ImageID</key>
-			<integer>1</integer>
-			<key>Shape</key>
-			<string>Rectangle</string>
-			<key>Style</key>
-			<dict>
-				<key>fill</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
-				</dict>
-				<key>shadow</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
-				</dict>
-				<key>stroke</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
-				</dict>
-			</dict>
-		</dict>
-		<dict>
-			<key>Bounds</key>
-			<string>{{339, 236.5}, {11.824742317199707, 31}}</string>
-			<key>Class</key>
-			<string>ShapedGraphic</string>
-			<key>ID</key>
-			<integer>43</integer>
 			<key>ImageID</key>
 			<integer>1</integer>
 			<key>Shape</key>
@@ -1225,7 +1225,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2012-10-20 07:13:23 +0000</string>
+	<string>2012-10-26 05:31:28 +0000</string>
 	<key>Modifier</key>
 	<string>Joshua Coles</string>
 	<key>NotesVisible</key>
@@ -1306,7 +1306,7 @@
 			</dict>
 		</array>
 		<key>Frame</key>
-		<string>{{595, 215}, {694, 922}}</string>
+		<string>{{932, 363}, {694, 813}}</string>
 		<key>ListView</key>
 		<true/>
 		<key>OutlineWidth</key>
@@ -1320,7 +1320,7 @@
 		<key>SidebarWidth</key>
 		<integer>120</integer>
 		<key>VisibleRegion</key>
-		<string>{{0, 0}, {559, 783}}</string>
+		<string>{{0, 0}, {545, 659}}</string>
 		<key>Zoom</key>
 		<real>1</real>
 		<key>ZoomValues</key>
