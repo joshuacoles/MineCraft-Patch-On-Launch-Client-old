@@ -15,33 +15,11 @@ module Commands
   end
 
   def Commands.launch
-    Basic_Commands.run(LAUNCH_COMMAND, true)
+    Basic_Commands.run_shell_command(LAUNCH_COMMAND, true)
   end
 
   def Commands.foo
     puts " Test"
-  end
-
-  # ====================================================================================================================
-  # -------------------------------------------Level 3 commands---------------------------------------------------------
-  # ====================================================================================================================
-
-  
-
-  def Commands.decompiled?(jar,class_name)
-   debug
-    Zip::ZipFile.open(jar) {
-        |jarfile|
-      if jarfile.find_entry(class_name) == nil
-        return true
-      else
-        return false
-      end
-    }
-  end
-
-  def Commands.debug()
-  puts Dir.getwd()
   end
 
 end
@@ -51,11 +29,11 @@ module Main_Processes
   def Main_Processes.retroguard(run = true)
     #TODO Make more efficient
     FileUtils.cp("vanilla/minecraft.jar", 'Work/RG/minecraft_Run.jar')
-    if run && !Commands.decompiled?("Work/RG/minecraft_Run.jar","a.class")
+    if run && !Basic_Commands.decompiled?("Work/RG/minecraft_Run.jar","a.class")
       puts "Test"
       Dir.chdir("Work/RG")
       #puts "Running Retroguard in directory #{Dir.getwd()}"
-      Basic_Commands.run("java -jar retroguard.jar minecraft_Run.jar minecraft_dobf.jar", false)
+      Basic_Commands.run_shell_command("java -jar retroguard.jar minecraft_Run.jar minecraft_dobf.jar", false)
       #puts "Retroguard might have finished"
       FileUtils.rm("minecraft_Run.jar")
       Dir.chdir("../../")
@@ -65,7 +43,7 @@ module Main_Processes
   def Main_Processes.unzip
     puts("Unzipping")
     Dir.chdir("Decomp")
-    Basic_Commands.run("unzip -of minecraftJar.jar", false)
+    Basic_Commands.run_shell_command("unzip -of minecraftJar.jar", false)
     FileUtils.rm("minecraftJar.jar")
   end
 
@@ -73,14 +51,14 @@ module Main_Processes
 
   def Main_Processes.compile()
     Dir.chdir("../../../Comp")
-    Basic_Commands.run("jar cf Work/FF/Decomp/*", true)
+    Basic_Commands.run_shell_command("jar cf Work/FF/Decomp/*", true)
   end
   
   def Main_Processes.patch(run)
     if run
       #puts Dir.getwd()
       Dir.chdir("Work/FF/Decomp")
-      Basic_Commands.run("patch ../../../../Patches/* ", true)
+      Basic_Commands.run_shell_command("patch ../../../../Patches/* ", true)
     end
     compile()
   end
@@ -88,7 +66,7 @@ module Main_Processes
   def Main_Processes.fernflower(run = true)
     #TODO Make more efficient
 
-    has_jar = false
+
 
     if Dir.entries("Work/FF/").include?("minecraft_dobf.jar")
       has_jar = true
@@ -96,14 +74,13 @@ module Main_Processes
       FileUtils.mv("Work/RG/minecraft_dobf.jar", "Work/FF/")
       has_jar = true
     end
-    puts has_jar
 
-    if run && has_jar && (!Commands.decompiled?("Work/FF/minecraft_dobf.jar","C_100007_a.java") || !Commands.decompiled?("Work/FF/minecraft_dobf.jar","C_100001.class"))
+    if run && has_jar && (!Basic_Commands.decompiled?("Work/FF/minecraft_dobf.jar","C_100007_a.java") || !Basic_Commands.decompiled?("Work/FF/minecraft_dobf.jar","C_100001.class"))
       debug
       puts "tuyfd"
       Dir.chdir("Work/FF")
 
-      Basic_Commands.run("java -jar fernflower.jar minecraft_dobf.jar Decomp", false)
+      Basic_Commands.run_shell_command("java -jar fernflower.jar minecraft_dobf.jar Decomp", false)
       File.rename("Decomp/minecraft_dobf.jar", "Decomp/minecraftJar.jar")
       FileUtils.rm("minecraft_dobf.jar")
     end
@@ -117,7 +94,7 @@ end
 
 module Basic_Commands
   
-  def Basic_Commands.run(command, out)
+  def Basic_Commands.run_shell_command(command, out)
     output = ""
     errors = ""
     puts "Running Command [#{command}]"
@@ -132,5 +109,20 @@ module Basic_Commands
     puts "Command completed [#{command}]"
   end
 
+  def Basic_Commands.decompiled?(jar,class_name)
+    debug
+    Zip::ZipFile.open(jar) {
+        |jarfile|
+      if jarfile.find_entry(class_name) == nil
+        return true
+      else
+        return false
+      end
+    }
+  end
+
+  def Commands.debug()
+    puts Dir.getwd()
+  end
   #TODO Make time keeper method to check time taken by each process. 
 end
