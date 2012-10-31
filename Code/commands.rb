@@ -9,9 +9,18 @@ module Commands
 
   def Commands.de_compile
     Dir.chdir("../../../Users/joshuac/RubymineProjects/Patch on Launch/Code/")
-    Main_Processes.retroguard(true)
+    Main_Processes.retroguard()
     Main_Processes.fernflower()
+    install()
+  end
+
+  def Commands.install
     Main_Processes.patch(false)
+    remake()
+  end
+
+  def Commands.remake
+    Main_Processes.compile()
   end
 
   def Commands.launch
@@ -21,7 +30,6 @@ module Commands
   def Commands.foo
     puts " Test"
   end
-
 end
 
 module Main_Processes 
@@ -43,15 +51,19 @@ module Main_Processes
   def Main_Processes.unzip
     puts("Unzipping")
     Dir.chdir("Decomp")
-    Basic_Commands.run_shell_command("unzip -of minecraftJar.jar", false)
+    Basic_Commands.run_shell_command("unzip minecraftJar.jar", false)
     FileUtils.rm("minecraftJar.jar")
+    Dir.chdir("..")
   end
 
 
 
   def Main_Processes.compile()
-    Dir.chdir("../../../Comp")
-    Basic_Commands.run_shell_command("jar cf Work/FF/Decomp/*", true)
+    puts `pwd`
+    Dir.chdir("Work/FF/")
+    puts `ls `
+    #puts "DECOMP DIR [#{Dir.entries("Decomp/")}]"
+    Basic_Commands.run_shell_command("javac -sourcepath Decomp/*.java ", true)
   end
   
   def Main_Processes.patch(run)
@@ -60,35 +72,30 @@ module Main_Processes
       Dir.chdir("Work/FF/Decomp")
       Basic_Commands.run_shell_command("patch ../../../../Patches/* ", true)
     end
-    compile()
   end
   
   def Main_Processes.fernflower(run = true)
     #TODO Make more efficient
-
-
-
-    if Dir.entries("Work/FF/").include?("minecraft_dobf.jar")
-      has_jar = true
-    else
-      FileUtils.mv("Work/RG/minecraft_dobf.jar", "Work/FF/")
-      has_jar = true
-    end
-
-    if run && has_jar && (!Basic_Commands.decompiled?("Work/FF/minecraft_dobf.jar","C_100007_a.java") || !Basic_Commands.decompiled?("Work/FF/minecraft_dobf.jar","C_100001.class"))
-      debug
-      puts "tuyfd"
-      Dir.chdir("Work/FF")
-
+    FileUtils.mv("Work/RG/minecraft_dobf.jar", "Work/FF/")
+    Dir.chdir("Work/FF")
+    puts "About to try and run Fern Flower in #{Dir.getwd}"
+    puts !Basic_Commands.decompiled?("minecraft_dobf.jar","a.class")
+    if run && Basic_Commands.decompiled?("minecraft_dobf.jar","a.class")
+      puts "  Fern Flower Running"
       Basic_Commands.run_shell_command("java -jar fernflower.jar minecraft_dobf.jar Decomp", false)
+      puts "  Fern Flower Run, contents of Directory is #{Dir.entries(Dir.getwd).inspect}"
       File.rename("Decomp/minecraft_dobf.jar", "Decomp/minecraftJar.jar")
       FileUtils.rm("minecraft_dobf.jar")
+    else
+      File.rename("minecraft_dobf.jar","minecraftJar.jar")
+      FileUtils.mv("minecraftJar.jar","Decomp/")
+      #FileUtils.rm("minecraft_dobf.jar")
     end
-
-    if Dir.entries("Decomp").include?("minecraftJar.jar")
+    puts Dir.entries("Decomp").include?("minecraftJar.jar")
+    if Dir.entries("Decomp").include?("minecraftJar.jar") && Dir.entries("Decomp").size <= 3
       unzip()
     end
-    Dir.chdir("../../..")
+    Dir.chdir("../../")
   end
 end
 
@@ -110,7 +117,6 @@ module Basic_Commands
   end
 
   def Basic_Commands.decompiled?(jar,class_name)
-    debug
     Zip::ZipFile.open(jar) {
         |jarfile|
       if jarfile.find_entry(class_name) == nil
@@ -121,7 +127,7 @@ module Basic_Commands
     }
   end
 
-  def Commands.debug()
+  def Basic_Commands.debug()
     puts Dir.getwd()
   end
   #TODO Make time keeper method to check time taken by each process. 
