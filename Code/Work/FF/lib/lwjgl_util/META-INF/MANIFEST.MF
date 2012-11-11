@@ -1,0 +1,273 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_17 (Sun Microsystems Inc.)
+
+Name: org/lwjgl/util/vector/Vector.class
+SHA1-Digest: 2gdqklMhut25Q35mu6n9GDhfc2M=
+
+Name: org/lwjgl/util/vector/ReadableVector3f.class
+SHA1-Digest: hVVjnYfCjsocAnDuV2hKUsxicKE=
+
+Name: org/lwjgl/util/vector/ReadableVector2f.class
+SHA1-Digest: hkRE+f1MRcWxiAiyHhFy9BjsPVk=
+
+Name: org/lwjgl/util/glu/tessellation/Sweep$1.class
+SHA1-Digest: Av/AdIn40OlNMx8mxV0m6TeeHDI=
+
+Name: org/lwjgl/util/glu/tessellation/PriorityQ$PQhandleElem.class
+SHA1-Digest: CbKAcQ1osgYgosSjgjsJsA8OJwk=
+
+Name: org/lwjgl/util/glu/tessellation/Sweep$2.class
+SHA1-Digest: NUdxKrNBv1iD+VVMxSAxuAlUdn4=
+
+Name: org/lwjgl/util/glu/tessellation/Render$renderCallBack.class
+SHA1-Digest: E25OiR8GURO1H5xpyf/jdP4ZGzA=
+
+Name: org/lwjgl/util/glu/tessellation/GLUtessellatorImpl.class
+SHA1-Digest: 46qftbIKm72Ws/jdFm9TWVGv91w=
+
+Name: org/lwjgl/util/glu/tessellation/PriorityQ$PQnode.class
+SHA1-Digest: xjZJkSiPQ+XaoERsiuUjDCrVfA0=
+
+Name: org/lwjgl/util/glu/MipMap.class
+SHA1-Digest: eSBsGGHIz6MY/v4ok/M6DGNMgkA=
+
+Name: org/lwjgl/util/glu/Quadric.class
+SHA1-Digest: 0gCum9Xp2Sc+vUmk93boVs+4Qq0=
+
+Name: org/lwjgl/util/glu/tessellation/PriorityQ.class
+SHA1-Digest: Dl73PsGPb4rIcabGusdpsgJD0IU=
+
+Name: org/lwjgl/util/ReadablePoint.class
+SHA1-Digest: mqSqcsOq9IUKbjLQwmOLo/PymKU=
+
+Name: org/lwjgl/util/glu/tessellation/Dict$DictLeq.class
+SHA1-Digest: bCpsLayGFBuTrGJo7dWs8+TSiis=
+
+Name: org/lwjgl/util/WritableColor.class
+SHA1-Digest: aQBxa5u2bFUMFQqe5lPqC8h0Dl4=
+
+Name: org/lwjgl/util/glu/tessellation/PriorityQHeap.class
+SHA1-Digest: A2U5SmvZTRVBMV0o+52E4zDlXJY=
+
+Name: org/lwjgl/util/glu/Disk.class
+SHA1-Digest: ouPfE0ZiqiY2fnVpbILPse6/HP4=
+
+Name: org/lwjgl/util/glu/tessellation/GLUmesh.class
+SHA1-Digest: I6/bLHM18YicEcGuPTPIcMONQ6c=
+
+Name: org/lwjgl/util/glu/tessellation/Render.class
+SHA1-Digest: M+3R9ukyAZc+gAMx9Eu2hy1zRik=
+
+Name: org/lwjgl/util/WritableRectangle.class
+SHA1-Digest: vbaS4ekPETBl0Tb3rgng8W818GI=
+
+Name: org/lwjgl/util/glu/PixelStoreState.class
+SHA1-Digest: U+B5BnowoR3dzxgSshjZofzuukA=
+
+Name: org/lwjgl/util/Display.class
+SHA1-Digest: elB76s2c5P7KtOBxsAv6vmjjDaA=
+
+Name: org/lwjgl/util/glu/tessellation/PriorityQSort$1.class
+SHA1-Digest: PTVGUuqP5PYGQyCiYcNDe2m/boE=
+
+Name: org/lwjgl/util/Dimension.class
+SHA1-Digest: HucakQDUT3S/COUd6Hq3wFnSBMA=
+
+Name: org/lwjgl/util/vector/Vector4f.class
+SHA1-Digest: 8o1nivf9ujoXDvL2nk6oXehoxbw=
+
+Name: org/lwjgl/util/glu/tessellation/Normal.class
+SHA1-Digest: WmkiqQ2I/q/Zwxwm6Jh1ZZ1DL/A=
+
+Name: org/lwjgl/util/glu/tessellation/Render$1.class
+SHA1-Digest: bR3r7NKSrfpkhyCoP0z0ySBfC+U=
+
+Name: org/lwjgl/util/glu/tessellation/GLUvertex.class
+SHA1-Digest: ZmMEsUd9juNKHVodwQcEZMijMqA=
+
+Name: org/lwjgl/util/glu/Util.class
+SHA1-Digest: /Xvmib3lYBFEEdviwbFWwB80MaU=
+
+Name: org/lwjgl/util/glu/tessellation/Dict.class
+SHA1-Digest: pXmO02CSgJKIeq1Dw/5GsNaxiSg=
+
+Name: org/lwjgl/util/vector/Matrix3f.class
+SHA1-Digest: QRAPHvpO+/4NaRgryw/htuP3Ct8=
+
+Name: org/lwjgl/util/XPMFile.class
+SHA1-Digest: nBknKNQSVC/Zo4JbeX+HaJ+gb64=
+
+Name: org/lwjgl/util/Point.class
+SHA1-Digest: V3K4MwsPirueT/ayj2O5E1skfXY=
+
+Name: org/lwjgl/util/vector/Vector2f.class
+SHA1-Digest: 3V5cAJCCKk01sqDPztQDAElEs3M=
+
+Name: org/lwjgl/util/jinput/LWJGLMouse$Button.class
+SHA1-Digest: JnPnziSvS/Kl1kG9eafsR/YNuLg=
+
+Name: org/lwjgl/util/jinput/LWJGLKeyboard.class
+SHA1-Digest: onXfKujaoQgZXCRZ/HfmG0xZlBI=
+
+Name: org/lwjgl/util/glu/tessellation/TessMono.class
+SHA1-Digest: RDvi8LCVUoqu0gEy6FPYomWbT+0=
+
+Name: org/lwjgl/util/glu/tessellation/ActiveRegion.class
+SHA1-Digest: mnOYB09fZ6DchmuRsyfNIOKwmy0=
+
+Name: org/lwjgl/util/glu/Sphere.class
+SHA1-Digest: sQMJlhQvJMwjK0Cnx3vbcTftV/E=
+
+Name: org/lwjgl/util/jinput/LWJGLEnvironmentPlugin.class
+SHA1-Digest: f2PFBr3yk4Tgsn2xheEcpWZvMvk=
+
+Name: org/lwjgl/util/vector/WritableVector4f.class
+SHA1-Digest: UC+SG9U9bhwdWOvtD9bGJBy4gIA=
+
+Name: org/lwjgl/util/vector/Vector3f.class
+SHA1-Digest: Cfw4vX/y63o3jxGBaLUVU7eDC3I=
+
+Name: org/lwjgl/util/input/ControllerAdapter.class
+SHA1-Digest: mWk3oa8ciRDgJuYTcWavYV3+APw=
+
+Name: org/lwjgl/util/vector/WritableVector2f.class
+SHA1-Digest: FgteOpRdvcROdLV9hGHpp9R9Fwg=
+
+Name: org/lwjgl/util/Rectangle.class
+SHA1-Digest: HRHeJptZjfllaxoPZuN2mQyphVI=
+
+Name: org/lwjgl/util/glu/GLUtessellatorCallback.class
+SHA1-Digest: G36u03hTs57Oc1DBhzhmLLPpg6w=
+
+Name: org/lwjgl/util/glu/tessellation/Mesh.class
+SHA1-Digest: G28zMNmBOOAc636/6HYQoy85pjg=
+
+Name: org/lwjgl/util/jinput/LWJGLKeyboard$Key.class
+SHA1-Digest: E3mqpCp+aM4GGjQW0LsN+ki49Tc=
+
+Name: org/lwjgl/util/glu/PartialDisk.class
+SHA1-Digest: 2GoKWdY+DIsJf9wPOY3k2/66wSc=
+
+Name: org/lwjgl/util/ReadableDimension.class
+SHA1-Digest: HjiBdAO1oe3aOC5SK398YUu/DW4=
+
+Name: org/lwjgl/util/vector/Quaternion.class
+SHA1-Digest: BHATBZJI0ttT2hL3bezeYl958Pg=
+
+Name: org/lwjgl/util/glu/tessellation/DictNode.class
+SHA1-Digest: GQXwo5JWLUMATa/NvOepaka0lvY=
+
+Name: org/lwjgl/util/jinput/KeyMap.class
+SHA1-Digest: LAnC0r5QMNGpPTCcxpl9Ax5dTpw=
+
+Name: org/lwjgl/util/Renderable.class
+SHA1-Digest: KGrpjvEy+LRPruk+hRz37mRyYwE=
+
+Name: org/lwjgl/util/glu/tessellation/PriorityQSort$Stack.class
+SHA1-Digest: 5/bQyz9VmNiuKlUTStk3rIrenHM=
+
+Name: org/lwjgl/util/jinput/LWJGLMouse$Axis.class
+SHA1-Digest: 6cRJJfkTiwEoPorNTVDCYUhiD3M=
+
+Name: org/lwjgl/util/vector/WritableVector3f.class
+SHA1-Digest: E30vnxmOagpqGAvD9tz8XQMr6ZE=
+
+Name: org/lwjgl/util/WritableDimension.class
+SHA1-Digest: kGdPhz9aLiZg69UHmmXlxenFc/0=
+
+Name: org/lwjgl/util/WaveData.class
+SHA1-Digest: zjDubYLEyEb8vl8vlRtkqA5X8UU=
+
+Name: org/lwjgl/util/glu/tessellation/CachedVertex.class
+SHA1-Digest: WMjg0iMz6pq4rpkU+dmmvfKpFis=
+
+Name: org/lwjgl/util/Timer.class
+SHA1-Digest: 8Aa0cYUdalgHoSJLKnf24YwZE/U=
+
+Name: org/lwjgl/util/glu/tessellation/Geom.class
+SHA1-Digest: +6kTrMm46EALvKsx3aRLVr0suHk=
+
+Name: org/lwjgl/util/vector/Matrix.class
+SHA1-Digest: bl2cPh8Oz1Qbyg0f6yaKIpHirAI=
+
+Name: org/lwjgl/util/glu/tessellation/PriorityQSort.class
+SHA1-Digest: IUNnEOyP+WENffCRjQQyC3MceYs=
+
+Name: org/lwjgl/util/glu/GLUtessellator.class
+SHA1-Digest: ERUkeMbAI4pzh14v0yzRpIuvIdE=
+
+Name: org/lwjgl/util/glu/tessellation/TessState.class
+SHA1-Digest: I1zvh+SPhm8GxwnHCBCF3zrIXmA=
+
+Name: org/lwjgl/util/vector/Matrix4f.class
+SHA1-Digest: XScGLxwolm5o8C2HsBqPG+8i0uo=
+
+Name: org/lwjgl/util/glu/Cylinder.class
+SHA1-Digest: HYb/E6Bj8Wnn1JBeLdVuwmXaV30=
+
+Name: org/lwjgl/util/vector/Matrix2f.class
+SHA1-Digest: uK+sujqKd/hniZTH4TDdi7bG7HE=
+
+Name: org/lwjgl/util/glu/tessellation/Render$RenderStrip.class
+SHA1-Digest: 4Qy/McYtdSw/DOoi3SpWOw+3q7g=
+
+Name: org/lwjgl/util/glu/tessellation/Render$RenderFan.class
+SHA1-Digest: 48+4TmfsbZdfbbJb/KiCKZhwrE4=
+
+Name: org/lwjgl/util/glu/tessellation/Sweep.class
+SHA1-Digest: TlBTq/4x5Ed8RI04r8sw4OlfpUg=
+
+Name: org/lwjgl/util/glu/Project.class
+SHA1-Digest: K5e55CNP6Jfj0nirKhVsWh3EL/8=
+
+Name: org/lwjgl/util/glu/Registry.class
+SHA1-Digest: dB+jdrDuRnt97E86JjUO5VAkHnw=
+
+Name: org/lwjgl/util/ReadableColor.class
+SHA1-Digest: 0UgMT9uhF5xKTTVg5UQIEOymKTQ=
+
+Name: org/lwjgl/util/ReadableRectangle.class
+SHA1-Digest: uMmWZ8b3YTSgdVOvfLyWDM/fBlQ=
+
+Name: org/lwjgl/util/vector/ReadableVector4f.class
+SHA1-Digest: KVnQi5i3lskrHUQOe058jJQ6k40=
+
+Name: org/lwjgl/util/Display$1FieldAccessor.class
+SHA1-Digest: WrnDKYFmJZY2lU9AHWPJmWVjZAw=
+
+Name: org/lwjgl/util/glu/GLUtessellatorCallbackAdapter.class
+SHA1-Digest: yPHiz0ANVbwe8dNHt9tDkUO2CAc=
+
+Name: org/lwjgl/util/glu/tessellation/Render$FaceCount.class
+SHA1-Digest: g5T67ckGpxFcEVEeMCyxQRx87Qk=
+
+Name: org/lwjgl/util/Color.class
+SHA1-Digest: 8OuSHD5HmE64ixzMTJ4QOjFNn+M=
+
+Name: org/lwjgl/util/glu/tessellation/GLUface.class
+SHA1-Digest: WC8X2GFpEWJQqL7M43JxysqL1Vw=
+
+Name: org/lwjgl/util/glu/GLU.class
+SHA1-Digest: gg+qXAp7czoOM+hkuOa2mz5ZKxc=
+
+Name: org/lwjgl/util/WritablePoint.class
+SHA1-Digest: Mn5P6vGsyR+o25raKFAI6gTXkiE=
+
+Name: org/lwjgl/util/glu/tessellation/GLUhalfEdge.class
+SHA1-Digest: F9BLceoCImtsoTyK/MvsiswufaU=
+
+Name: org/lwjgl/util/jinput/LWJGLMouse.class
+SHA1-Digest: C9g3JRaYCRoMeDNV7F8Wr8BV6C0=
+
+Name: org/lwjgl/util/glu/tessellation/Render$RenderTriangle.class
+SHA1-Digest: WEh3ppXgND3Bd4/7yAHpeDFVZy0=
+
+Name: org/lwjgl/util/vector/ReadableVector.class
+SHA1-Digest: HTxTcXlsI38zye0yCVJtLb3ZOD8=
+
+Name: org/lwjgl/util/glu/tessellation/PriorityQ$Leq.class
+SHA1-Digest: wMRW2QEyxBGVFKOPynEEKYiGLQs=
+
+Name: org/lwjgl/util/Display$1Sorter.class
+SHA1-Digest: uab+I04CNmCClmZUmDlBUV7B7G4=
+

@@ -1,0 +1,1176 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_17 (Sun Microsystems Inc.)
+
+Name: org/lwjgl/opengl/ATITextFragmentShader.class
+SHA1-Digest: bEaRKFmiSw2FPeXCgxHo8D7WpJA=
+
+Name: org/lwjgl/opengl/GL11.class
+SHA1-Digest: 9LDbg+J8ijYyQguTFo9u12ZNUc8=
+
+Name: org/lwjgl/opengl/ARBTextureCompressionBPTC.class
+SHA1-Digest: Y4bEkuFlYS68CNbwEwfLWYVuUcM=
+
+Name: org/lwjgl/opengl/ARBSeamlessCubeMap.class
+SHA1-Digest: xZ869Kmq4FKhAF43+SyiI0h01s8=
+
+Name: org/lwjgl/Sys$3.class
+SHA1-Digest: YOhedqX7oW6gHbHX7/jc8fQViag=
+
+Name: org/lwjgl/opengl/GLContext$2.class
+SHA1-Digest: Yg3FlKAUrfm/WKCKowNs+XJP08s=
+
+Name: org/lwjgl/opengl/LinuxAWTGLCanvasPeerInfo.class
+SHA1-Digest: maeC5edWjW8xtZ0dFKtriRNNo3w=
+
+Name: org/lwjgl/opengl/MacOSXDisplayPeerInfo.class
+SHA1-Digest: O49guzoPdOpqITqlAvhJZc9BcQc=
+
+Name: org/lwjgl/opengl/NVTextureRectangle.class
+SHA1-Digest: ULIYrIbzL1RQhHJr0zmSeXSTVEA=
+
+Name: org/lwjgl/opengl/EXTTextureRectangle.class
+SHA1-Digest: D47Rwrxyr+2xqq3BWR+FM0eVAzY=
+
+Name: org/lwjgl/Sys$2.class
+SHA1-Digest: zkP97FRR+cJePNT+oZ2P6BKEsZs=
+
+Name: org/lwjgl/opengl/InputImplementation.class
+SHA1-Digest: q8+jL2mvx0VXSK8hX9k4bPC7zac=
+
+Name: org/lwjgl/opengl/ARBGpuShader5.class
+SHA1-Digest: voIyf3WnvQSx01Ym1YbwgIK0YZE=
+
+Name: org/lwjgl/opengl/ARBDrawInstanced.class
+SHA1-Digest: /lIeghYe/l0FtSm20pxvyyv7/dk=
+
+Name: org/lwjgl/opengl/EXTTextureLODBias.class
+SHA1-Digest: vpw9B2WlAMk3rQIExhRBtKHlZ8I=
+
+Name: org/lwjgl/opengl/StateStack.class
+SHA1-Digest: 5EPG394LkGWSDcpro3oaHSCAG9Q=
+
+Name: org/lwjgl/opengl/ContextCapabilities.class
+SHA1-Digest: 0WxPXGheYuLj7ArcK9/rjJO0c9o=
+
+Name: org/lwjgl/opengl/ARBOcclusionQuery2.class
+SHA1-Digest: r0DXvaDhJrkm8kHThSKvaTa/QFM=
+
+Name: org/lwjgl/opengl/MacOSXCanvasListener.class
+SHA1-Digest: 4K1Q9ExStIBB3jom4iJej1zSfno=
+
+Name: org/lwjgl/opengl/ARBVertexArrayBgra.class
+SHA1-Digest: ReDxvqAZltm5qBdu0bVV5XJJ0yk=
+
+Name: org/lwjgl/opengl/Pbuffer.class
+SHA1-Digest: r/Cr26su5Rn/E0RsnOrTPWqDMCQ=
+
+Name: org/lwjgl/opengl/WindowsMouse.class
+SHA1-Digest: i+d4sHGrgtDcC+gdcYQULsvVRHQ=
+
+Name: org/lwjgl/opengl/LinuxContextImplementation.class
+SHA1-Digest: /7ZGKZQ3/+XA/zXLzlGl6KDiiRY=
+
+Name: org/lwjgl/opengl/MacOSXContextAttribs.class
+SHA1-Digest: NGqHtYSGNgLZ106eriwSc09tMrc=
+
+Name: org/lwjgl/opengl/ARBWindowPos.class
+SHA1-Digest: O2FwoBAacheN83CuoDSc+PjHW4c=
+
+Name: org/lwjgl/opengl/AWTUtil$1.class
+SHA1-Digest: 39RvlcoVlD67t65lA8LX/tT0Gg0=
+
+Name: org/lwjgl/opengl/ARBOcclusionQuery.class
+SHA1-Digest: 9zRs8acZ0WaaWOTBSEhsFSuEc1Q=
+
+Name: org/lwjgl/opengl/APIUtils$2.class
+SHA1-Digest: dwm/H3QHck2ZYGXgKSNA7rsHRjI=
+
+Name: org/lwjgl/opengl/XRandR$Screen.class
+SHA1-Digest: neQCrg9bxg9rpT8EMcGZkItnr7g=
+
+Name: org/lwjgl/opengl/GL15.class
+SHA1-Digest: QgKnNWXH0vTRPkzj3z1XGa6qEf4=
+
+Name: org/lwjgl/opengl/AMDSeamlessCubemapPerTexture.class
+SHA1-Digest: rTMe6ZiIqIgQu9O/Ul5CuXyA8fE=
+
+Name: org/lwjgl/opengl/PeerInfo.class
+SHA1-Digest: HwJMbwX+k1pc9ttPFhbM2gESYqM=
+
+Name: org/lwjgl/opengl/AMDVertexShaderTessellator.class
+SHA1-Digest: xAoumZoIltXTv4bbc2Ke3Xf8Txo=
+
+Name: org/lwjgl/opengl/GLChecks.class
+SHA1-Digest: jujOCV/LeXH2QlgdVSZ58V19iQg=
+
+Name: org/lwjgl/opengl/MacOSXMouseEventQueue.class
+SHA1-Digest: OJTfrx0xNgVpcMeEz5SMxLdMOpg=
+
+Name: org/lwjgl/opengl/NVTextureShader3.class
+SHA1-Digest: PjsIdab8PmLVBpHvnr1kguR6rqY=
+
+Name: org/lwjgl/opengl/AWTSurfaceLock.class
+SHA1-Digest: vPOr0XI11ODD9MferAgneAkN3Zg=
+
+Name: org/lwjgl/opengl/APIUtils$Buffers.class
+SHA1-Digest: IRjPP556AiAt8trju4nDbGIJdAc=
+
+Name: org/lwjgl/opengl/Display$3.class
+SHA1-Digest: vfKHV6ck472pzcGXSZBZVMKfnyw=
+
+Name: org/lwjgl/opengl/APPLEElementArray.class
+SHA1-Digest: 9AjkWSZIGrK99/3df3DTAQK/GWE=
+
+Name: org/lwjgl/opengl/ARBImaging.class
+SHA1-Digest: cquWnAUHkw8s5NgoVmsF9zx8zgg=
+
+Name: org/lwjgl/opengl/NVTextureShader2.class
+SHA1-Digest: 7lPZwT3UhJL9p+ctmk/GNnEatlY=
+
+Name: org/lwjgl/opengl/WindowsCanvasImplementation$1.class
+SHA1-Digest: bXulNYVYc0etFuQuWDQWqyETPLg=
+
+Name: org/lwjgl/LWJGLUtil$1.class
+SHA1-Digest: F4LIRMLJkrWqjXZU/zoLa/cBE8A=
+
+Name: org/lwjgl/opengl/ARBVertexShader.class
+SHA1-Digest: pJd/X1+GbretaWcxRR3dekPVybI=
+
+Name: org/lwjgl/opengl/EXTBlendEquationSeparate.class
+SHA1-Digest: uT5uyc7ZoseXKTsiELeHOqM6tnU=
+
+Name: org/lwjgl/opengl/LinuxCanvasImplementation$2.class
+SHA1-Digest: J+82COmfuE8mQ1kFl8dOCEa3qh0=
+
+Name: org/lwjgl/opengl/ARBDrawElementsBaseVertex.class
+SHA1-Digest: urmrmnsu7kKi0KPkjfMJdlQRYsw=
+
+Name: org/lwjgl/opengl/NVTransformFeedback2.class
+SHA1-Digest: axeQtUBzNND6ljgfyKSk1ZG4nto=
+
+Name: org/lwjgl/LWJGLUtil$2.class
+SHA1-Digest: XdVQy1CXxtr6znvtB6p5r/pHFZU=
+
+Name: org/lwjgl/opengl/ATIEnvmapBumpmap.class
+SHA1-Digest: vpilWQEtLDJYTAWUXJ6UjlZhOYI=
+
+Name: org/lwjgl/opengl/APPLEVertexArrayObject.class
+SHA1-Digest: X+dclcdFC2qmIgN+1FIaDAQMoNY=
+
+Name: org/lwjgl/opengl/EXTPointParameters.class
+SHA1-Digest: a8OlwV1lNqhJDMA4rwpqmnP8UcQ=
+
+Name: org/lwjgl/opengl/MacOSXCanvasListener$1.class
+SHA1-Digest: ojhSmDBg+r2RjvHm276ko9yEqaE=
+
+Name: org/lwjgl/opengl/ARBCopyBuffer.class
+SHA1-Digest: H26yiuJllSEWkY8XpF2ehbLVK9Q=
+
+Name: org/lwjgl/LWJGLUtil.class
+SHA1-Digest: ryKLtpUrjPaJsOE36AaWIs22qoY=
+
+Name: org/lwjgl/opengl/NVOcclusionQuery.class
+SHA1-Digest: ohM7IkMk/y9Em0Lh3se1rvBjf9o=
+
+Name: org/lwjgl/opengl/APPLEFlushBufferRange.class
+SHA1-Digest: LUiEp2mipaGOixz1YYembEjf2mo=
+
+Name: org/lwjgl/opengl/ATIElementArray.class
+SHA1-Digest: YVks0f+K9qjjPdaUkh0udqIurRs=
+
+Name: org/lwjgl/opengl/APPLEObjectPurgeable.class
+SHA1-Digest: jFYYAFsRortY2wlBozuZI3ru2BM=
+
+Name: org/lwjgl/opengl/ATIVertexStreams.class
+SHA1-Digest: qV2g3edUPIyIsMCGKAV5w9m/Qtg=
+
+Name: org/lwjgl/opengl/ARBProgram.class
+SHA1-Digest: ot6Y+IMXamk/dTVa1vOuMXsk73g=
+
+Name: org/lwjgl/opengl/EXTDirectStateAccess.class
+SHA1-Digest: u3LwZ3dgxLw86S3hgPmu+3lc9Zc=
+
+Name: org/lwjgl/opengl/Drawable.class
+SHA1-Digest: xrqx7cjnlIj+AGClcdLcylKEzgc=
+
+Name: org/lwjgl/opengl/WindowsFileVersion.class
+SHA1-Digest: Eo+F5juvUVEsz+e89H8rasvTsaE=
+
+Name: org/lwjgl/opengl/WindowsRegistry.class
+SHA1-Digest: j5eKbi5sdn4H42rD/e6diP1to0I=
+
+Name: org/lwjgl/opengl/NVRegisterCombiners2.class
+SHA1-Digest: B3WvvNIxVeV9WtGpjihXvRQ6yLc=
+
+Name: org/lwjgl/opengl/ARBTextureBorderClamp.class
+SHA1-Digest: /6jv/i6Q6pp8ZT1aB9MgNIqDgw8=
+
+Name: org/lwjgl/opengl/ARBHalfFloatVertex.class
+SHA1-Digest: HVvXm+dQfs03kPMpgrtPzGutqUY=
+
+Name: org/lwjgl/opengl/ARBFragmentProgram.class
+SHA1-Digest: VkjxwpUZp1zOpxyPHnG4IE8GSX8=
+
+Name: org/lwjgl/opengl/EXTTextureSRGB.class
+SHA1-Digest: dgNtKZeF04k7G0KBWH+Q1bmUWIc=
+
+Name: org/lwjgl/NondirectBufferWrapper$1.class
+SHA1-Digest: 2jlbqIheXWHao7hQAgZ327sm8hE=
+
+Name: org/lwjgl/opengl/KeyboardEventQueue.class
+SHA1-Digest: hWqfYVr1vLNMW/XUzo3khMd51Bw=
+
+Name: org/lwjgl/opengl/EXTDrawInstanced.class
+SHA1-Digest: Z+5AkGV4mPtAVrQgUnZA5HGP6YI=
+
+Name: org/lwjgl/opengl/LinuxCanvasImplementation$1.class
+SHA1-Digest: bgQ5fe+7jTwPcwLqkFEq0a2A980=
+
+Name: org/lwjgl/opengl/EXTVertexArrayBgra.class
+SHA1-Digest: 5yvfpxtPtjjXLtndog1sIWpecf0=
+
+Name: org/lwjgl/opengl/ATITextureEnvCombine3.class
+SHA1-Digest: tluZJJ1G68JwRCpPb/AS1BK+IQs=
+
+Name: org/lwjgl/opengl/NVHalfFloat.class
+SHA1-Digest: Wq7ujr+8klS1m0KvR5NeMdoXpYk=
+
+Name: org/lwjgl/opengl/ARBHalfFloatPixel.class
+SHA1-Digest: 9vtIFFRbRp0yC5TE1ui6K9gFCS8=
+
+Name: org/lwjgl/opengl/ARBVertexType2_10_10_10_REV.class
+SHA1-Digest: zqlAva5yP3NjHgCeg8glWpRs9eA=
+
+Name: org/lwjgl/openal/AL11.class
+SHA1-Digest: bZtMp3JeEKUQnSdi8xnHaD4ZmYg=
+
+Name: org/lwjgl/LinuxSysImplementation.class
+SHA1-Digest: 9/LHImsz47JOJfllU9pDy1NszoU=
+
+Name: org/lwjgl/opengl/GL32.class
+SHA1-Digest: HNuXE351oemZpAxNurBdesuGzPQ=
+
+Name: org/lwjgl/opengl/ARBTextureSwizzle.class
+SHA1-Digest: DYtEcB8NzXy8vRWiLYNqKDjCYcY=
+
+Name: org/lwjgl/opengl/ARBDrawBuffersBlend.class
+SHA1-Digest: /9n5CycXcvxLALXDSbmm+gThGo4=
+
+Name: org/lwjgl/opengl/EXTPixelBufferObject.class
+SHA1-Digest: OzFf4/2L580vwC6NFu6ygMeagPw=
+
+Name: org/lwjgl/opengl/APPLERowBytes.class
+SHA1-Digest: fUk5NJJbdtP5HwxCXlE90m8GYfs=
+
+Name: org/lwjgl/opengl/APPLEFence.class
+SHA1-Digest: 9XHgylbIkQLxpoeMUSUEXaMC9zo=
+
+Name: org/lwjgl/input/Cursor.class
+SHA1-Digest: 81mX9b/kJufcUyKZhghOmB422NE=
+
+Name: org/lwjgl/openal/OpenALException.class
+SHA1-Digest: VQxwqRCxPBHr+aknGbgOv31IWOA=
+
+Name: org/lwjgl/opengl/ARBMultitexture.class
+SHA1-Digest: bYLptdIAhS0xznq6KeRr/rlcjVo=
+
+Name: org/lwjgl/MacOSXSysImplementation.class
+SHA1-Digest: Jgiy6AWz3gTNC6DIcxpXNEPoNho=
+
+Name: org/lwjgl/input/OpenGLPackageAccess$2.class
+SHA1-Digest: SLh2YkE/qVVxp0vef4LaZqKcJ0M=
+
+Name: org/lwjgl/opengl/ARBVertexBlend.class
+SHA1-Digest: VRKnIkgoQGNxkWJghgFrn0hYa70=
+
+Name: org/lwjgl/opengl/EXTAbgr.class
+SHA1-Digest: p7wInILfJCTE7eQx13PB0ldkXPg=
+
+Name: org/lwjgl/opengl/LinuxPeerInfo.class
+SHA1-Digest: uazIHoWkQppS2jvVm2PzAj7q51Q=
+
+Name: org/lwjgl/opengl/NVTextureBarrier.class
+SHA1-Digest: N++PVykjqraOirFRH81Pi5kFwQE=
+
+Name: org/lwjgl/opengl/EXTVertexAttrib64bit.class
+SHA1-Digest: SiaJkD/SxShk/8gjCZcyspYwLqA=
+
+Name: org/lwjgl/opengl/MacOSXDisplay$1$1.class
+SHA1-Digest: XmElLSpu0b36VQExDT/WTCjZOcI=
+
+Name: org/lwjgl/opengl/NVDepthBufferFloat.class
+SHA1-Digest: HgiEKkp4RneRdxqImhXY5TZVqjo=
+
+Name: org/lwjgl/opengl/APPLEVertexProgramEvaluators.class
+SHA1-Digest: RwBfE517KsmTV9+aN2HH88bOwRM=
+
+Name: org/lwjgl/opengl/ARBShadowAmbient.class
+SHA1-Digest: JE0o6OvTAbVWQd0mVwzxyM7XHuM=
+
+Name: org/lwjgl/opengl/NVGeometryProgram4.class
+SHA1-Digest: Tjbj7qnH3MKCdbxELlf2kzOrICs=
+
+Name: org/lwjgl/opengl/NVFence.class
+SHA1-Digest: kfYa4uKb47ha3MIt0dOlyHGrLKA=
+
+Name: org/lwjgl/opengl/NVTextureShader.class
+SHA1-Digest: q10du7/cTmSsG6A6rYUh3HinzEM=
+
+Name: org/lwjgl/opengl/ARBVertexArrayObject.class
+SHA1-Digest: FTxfWzUTUO7Z+nGC0PgmDmXCi74=
+
+Name: org/lwjgl/opengl/ARBTimerQuery.class
+SHA1-Digest: kwGrrX81p5hls5i3koGdTrWlk9E=
+
+Name: org/lwjgl/opengl/XRandR$1.class
+SHA1-Digest: Aqw9fqlXjHd+FQGn4Q+2Bdme3Cw=
+
+Name: org/lwjgl/opengl/ARBTextureRectangle.class
+SHA1-Digest: mQmHwQbi6JLn+mQ0ap5ya240BUY=
+
+Name: org/lwjgl/DefaultSysImplementation.class
+SHA1-Digest: DNK1njCGGXK/3278FwyX8L/rbwk=
+
+Name: org/lwjgl/opengl/NVDepthClamp.class
+SHA1-Digest: YR5fR0ymByJbUaDyi9uw/rKHTTo=
+
+Name: org/lwjgl/opengl/EXTDrawBuffers2.class
+SHA1-Digest: bwUo3SeuEIgBEqNb2ykjil0ECy8=
+
+Name: org/lwjgl/opengl/StateTracker.class
+SHA1-Digest: uCnOKMMZWqjLcjnLWWXjvwUsZj8=
+
+Name: org/lwjgl/opengl/EXTTextureArray.class
+SHA1-Digest: Rnvffkdl/61eMNJFDH3sWhVipbw=
+
+Name: org/lwjgl/J2SESysImplementation.class
+SHA1-Digest: +bKdzscKjYIH/EhyUGj5gNBDJmk=
+
+Name: org/lwjgl/opengl/ARBTextureEnvDot3.class
+SHA1-Digest: NMxW4mZYQUerzKJpZqTTFkaD1Rw=
+
+Name: org/lwjgl/opengl/EXTTextureMirrorClamp.class
+SHA1-Digest: YzLJpjA7c+JkaSZGuIl53jXur/A=
+
+Name: org/lwjgl/opengl/NVXGpuMemoryInfo.class
+SHA1-Digest: 4eI3iIqbKAO4ZVMLjvWmdaqQheA=
+
+Name: org/lwjgl/Sys$1.class
+SHA1-Digest: 8pHJDLNaQB0SlvBQF4CvZOjAATk=
+
+Name: org/lwjgl/opengl/RenderTexture.class
+SHA1-Digest: /G/KJ5F0WnDauT6FFfPor687pQQ=
+
+Name: org/lwjgl/opengl/EXTMultiDrawArrays.class
+SHA1-Digest: wpk+0RqXT2jAGSjhhwYl0FiKxzc=
+
+Name: org/lwjgl/opengl/EXTGpuShader4.class
+SHA1-Digest: yU72l6o0bnWkw8MXuE3gpapFiRE=
+
+Name: org/lwjgl/opengl/LinuxEvent.class
+SHA1-Digest: 6sNy2q4ckxwu/GRgWp66SwFoKv8=
+
+Name: org/lwjgl/Sys.class
+SHA1-Digest: NDrklvT+IYfvwYF3QqmK0PKFbFY=
+
+Name: org/lwjgl/opengl/EXTTextureCompressionRGTC.class
+SHA1-Digest: uNzlLLyDb1LMyBQklbROT/Qeuis=
+
+Name: org/lwjgl/opengl/EXTTextureCompressionLATC.class
+SHA1-Digest: +b7ODD9c/Q7DKeN3EQwRBUMeXpk=
+
+Name: org/lwjgl/opengl/EXTTextureEnvDot3.class
+SHA1-Digest: aoWZvF3doRf4SGAeA+PGeM8Qju8=
+
+Name: org/lwjgl/opengl/MacOSXCanvasImplementation.class
+SHA1-Digest: 3y3YSrMXif4slli6YQlxOC5ccek=
+
+Name: org/lwjgl/opengl/WindowsContextImplementation.class
+SHA1-Digest: n6NpCb1ndJrfu0ogBXum1zA6MxM=
+
+Name: org/lwjgl/opengl/EXTPackedFloat.class
+SHA1-Digest: uattwrkF/K+cDsMAqgAHZaX71Fc=
+
+Name: org/lwjgl/opengl/GL14.class
+SHA1-Digest: miyTDUJJ/ijOruSvmAJ3kZkmjIQ=
+
+Name: org/lwjgl/opengl/ARBDepthBufferFloat.class
+SHA1-Digest: xrwGa3JlJ8WDRG4gjPwDsQLMmxA=
+
+Name: org/lwjgl/opengl/MouseEventQueue.class
+SHA1-Digest: 9JwWwv2UPjUpX9kXSAEuLl5Iotw=
+
+Name: org/lwjgl/opengl/NVEvaluators.class
+SHA1-Digest: 7RCox5/q5GlRS/dYvtZuvaRCOZs=
+
+Name: org/lwjgl/opengl/ARBDrawIndirect.class
+SHA1-Digest: A5CeqMrv66uNqzU+932Ur+g8bZQ=
+
+Name: org/lwjgl/opengl/NVTessellationProgram5.class
+SHA1-Digest: NcJtQiHkcMitso+LzfPWWIjt/eY=
+
+Name: org/lwjgl/opengl/ARBShaderObjects.class
+SHA1-Digest: RhKz1PVagaqBQd/lKgmcydkzT4E=
+
+Name: org/lwjgl/opengl/EXTGeometryShader4.class
+SHA1-Digest: EKofiqjV5Nim8cseHxOrwxr70Hg=
+
+Name: org/lwjgl/opengl/GL33.class
+SHA1-Digest: Hl4a5v/6sWLGtP0pPRp9EXrWl0M=
+
+Name: org/lwjgl/opengl/WindowsDisplayPeerInfo.class
+SHA1-Digest: PkapOzmEO9Pa3rW5so07qjDb8U4=
+
+Name: org/lwjgl/opengl/XRandR.class
+SHA1-Digest: OWb2yhaIWnBKVK+TeM/O9vkahnM=
+
+Name: org/lwjgl/opengl/ReferencesStack.class
+SHA1-Digest: 1z8h1QvFnU7y7npHmXwluxyJ0g8=
+
+Name: org/lwjgl/opengl/Display$2.class
+SHA1-Digest: /C9HQQj68N1kAx2yv4jXcx06Yyo=
+
+Name: org/lwjgl/opengl/EXTBlendFuncSeparate.class
+SHA1-Digest: ZMsaiV8xq2MLIzJq7ZFxSG89mkY=
+
+Name: org/lwjgl/opengl/EXTTextureFilterAnisotropic.class
+SHA1-Digest: avVXsB6Q4dAzcWVMbzDbDNrNzx8=
+
+Name: org/lwjgl/input/Mouse.class
+SHA1-Digest: xbXB8Sgxf78oFF9qz7Cm0rtXGrk=
+
+Name: org/lwjgl/opengl/EXTTextureCompressionS3TC.class
+SHA1-Digest: 6Hekh7RKRIQq93Wue0H9xGAgXuM=
+
+Name: org/lwjgl/opengl/AMDPerformanceMonitor.class
+SHA1-Digest: gQFmYwfZ8ca/xKPWUf2m7cP1IOc=
+
+Name: org/lwjgl/opengl/NVTexgenReflection.class
+SHA1-Digest: ejRhj3O1MJPrYjnqif5Z5opcbY8=
+
+Name: org/lwjgl/opengl/APPLEClientStorage.class
+SHA1-Digest: UJFFd4cJ4rVNR7V/sT6rPktX0gE=
+
+Name: org/lwjgl/opengl/ATIMapObjectBuffer.class
+SHA1-Digest: xd5lwekbmBBTgsVpZEztbt4OpwA=
+
+Name: org/lwjgl/opengl/LinuxDisplayPeerInfo.class
+SHA1-Digest: Dduxn5cutT1VsJ2cGBaPH85mXvk=
+
+Name: org/lwjgl/opengl/ATITextureFloat.class
+SHA1-Digest: B2GqF8JwylubU0+ZXlBGvzZc+dw=
+
+Name: org/lwjgl/opengl/NVShaderBufferStore.class
+SHA1-Digest: //OWRX5QNDgR+c+2Ly8Vb3HbzB8=
+
+Name: org/lwjgl/opengl/DisplayMode.class
+SHA1-Digest: Yn4aQkKui5y0LIFiokAJJgbh3eQ=
+
+Name: org/lwjgl/opengl/ARBTessellationShader.class
+SHA1-Digest: Uk9Q1OkXIgDDu9XOYjbUEsyC1GI=
+
+Name: org/lwjgl/opengl/NVRegisterCombiners.class
+SHA1-Digest: z+/x5jeDBUGdx6wMeyts2q1mpJE=
+
+Name: org/lwjgl/opengl/ARBTransformFeedback2.class
+SHA1-Digest: DeJOheDLzKl0zdwiYZiNlw9lphw=
+
+Name: org/lwjgl/opengl/LinuxKeycodes.class
+SHA1-Digest: MrH1NGmpC3Q04IbPPsE1j3aqGuM=
+
+Name: org/lwjgl/opengl/ARBShadingLanguageInclude.class
+SHA1-Digest: 4f1y9WZ8GAvEiflJZpaGllOQUo4=
+
+Name: org/lwjgl/opengl/ARBSamplerObjects.class
+SHA1-Digest: FdVhq2zwijN4xvcbe4BnJAf1o4w=
+
+Name: org/lwjgl/opengl/EXTFramebufferSRGB.class
+SHA1-Digest: 7yN3VbD8zYpeHHBt2psYIqnssTE=
+
+Name: org/lwjgl/opengl/WindowsPeerInfo.class
+SHA1-Digest: LGjJN5vlaY04CsVUZsqQveuINdM=
+
+Name: org/lwjgl/opengl/NVGpuProgram5.class
+SHA1-Digest: ctvregzxubKmN+4YrnQY6bMqbLE=
+
+Name: org/lwjgl/opengl/NVPixelDataRange.class
+SHA1-Digest: +9Abde0JTG0kpzwvfVBef5titWU=
+
+Name: org/lwjgl/opengl/EXTTimerQuery.class
+SHA1-Digest: 1DFeqZJnXerXP1YISQDlnmjkvRw=
+
+Name: org/lwjgl/opengl/EXTFramebufferBlit.class
+SHA1-Digest: YdfCo0LLdNwDbw0Xeg+F9Fmj8R0=
+
+Name: org/lwjgl/opengl/LinuxMouse.class
+SHA1-Digest: H5UZWjxWMUP1WWfPYg8e/Nf0QXc=
+
+Name: org/lwjgl/opengl/MacOSXContextImplementation.class
+SHA1-Digest: biWO45oJb3glePNMqkhqqdyLhzw=
+
+Name: org/lwjgl/opengl/AWTSurfaceLock$1.class
+SHA1-Digest: Otjl/NwJ56vIX+xs3krOT8DzSaQ=
+
+Name: org/lwjgl/opengl/ARBMatrixPalette.class
+SHA1-Digest: 1RMoJQppJ/LpzC6jply/Eqvs4iA=
+
+Name: org/lwjgl/opengl/LinuxContextAttribs.class
+SHA1-Digest: M8EkXP/WWuTBUN3jVeF9RYXD2Kw=
+
+Name: org/lwjgl/opengl/NVCopyDepthToColor.class
+SHA1-Digest: neVBV2DqrbcKN1qqkcwx9DEvAJQ=
+
+Name: org/lwjgl/opengl/NVParameterBufferObject.class
+SHA1-Digest: s9y07fRESUcdsCfKo5QJ5nscdL0=
+
+Name: org/lwjgl/NondirectBufferWrapper$CachedBuffers.class
+SHA1-Digest: Ddo9QCsPF/vml0AwKQ6wa+TBZ2A=
+
+Name: org/lwjgl/opengl/EXTProvokingVertex.class
+SHA1-Digest: MIPrXbjjg5MkbZTtZ9TA9wEUB6I=
+
+Name: org/lwjgl/opengl/EXTDepthBoundsTest.class
+SHA1-Digest: 2LLICeHe6dAdDae8Zw0r2eBPJtY=
+
+Name: org/lwjgl/opengl/ARBMapBufferRange.class
+SHA1-Digest: C5LCEo2RQe5TW4eAQ6gOfqugeVs=
+
+Name: org/lwjgl/opengl/APIUtils$InfiniteCharSequence.class
+SHA1-Digest: yvbLLFDX82s1rAVlIgqCvAdawSA=
+
+Name: org/lwjgl/opengl/NVFloatBuffer.class
+SHA1-Digest: r1n4YxjsmraseARKZ5bAA93APoQ=
+
+Name: org/lwjgl/opengl/ARBTextureCompressionRGTC.class
+SHA1-Digest: GnlPi/Y6k3d1x34/AcNPnahxyuA=
+
+Name: org/lwjgl/opengl/GL13.class
+SHA1-Digest: hY+NZtRvACplOwXPnQBBaDFv3go=
+
+Name: org/lwjgl/opengl/ARBTextureBufferObject.class
+SHA1-Digest: U+IX+O4xR6HPESJR1ql+IA5a08s=
+
+Name: org/lwjgl/opengl/ARBTextureMirroredRepeat.class
+SHA1-Digest: EDg+5QILeTjIFnkQ2yaM3HRp5c4=
+
+Name: org/lwjgl/opengl/NVExplicitMultisample.class
+SHA1-Digest: 4etachMst5Xxrp/P1cwDped0PQ8=
+
+Name: org/lwjgl/opengl/ARBTextureRg.class
+SHA1-Digest: 76NLjC+Z4a7x2lNfZmcflc+dFWQ=
+
+Name: org/lwjgl/input/ControllerEvent.class
+SHA1-Digest: 5jVlPjvcFkZhCLmgi9k0Z7uX6Kk=
+
+Name: org/lwjgl/opengl/LinuxPbufferPeerInfo.class
+SHA1-Digest: j6eXh+E9ESPntIXl6ixF2ol/pqw=
+
+Name: org/lwjgl/opengl/NVShaderBufferLoad.class
+SHA1-Digest: QRzqGHxQod3LyDF/Sthk14KhEWc=
+
+Name: org/lwjgl/opengl/NVVertexProgram.class
+SHA1-Digest: wOZxwSW/7E2ZzOaSzeoVKJUCxv4=
+
+Name: org/lwjgl/openal/ALC11.class
+SHA1-Digest: JtEioA9lKP10hpTflkdgV0Gb5xg=
+
+Name: org/lwjgl/opengl/ATIVertexArrayObject.class
+SHA1-Digest: OgfYgsgp+iAr9j6F7ohuWEehhU0=
+
+Name: org/lwjgl/input/Controllers.class
+SHA1-Digest: P7mRZp1FKFyNvI4xcLhHAdpn12s=
+
+Name: org/lwjgl/opengl/ARBTextureCompression.class
+SHA1-Digest: KWcEhnpmag+gQvGh8uymNI+az10=
+
+Name: org/lwjgl/opengl/NVVertexAttribInteger64bit.class
+SHA1-Digest: eTDnwteo/OlaY2tyLGD/kJWS5+M=
+
+Name: org/lwjgl/LWJGLException.class
+SHA1-Digest: THfvsuKBJLngM/4kgRBobvez1Is=
+
+Name: org/lwjgl/opengl/WindowsKeyboard.class
+SHA1-Digest: nagtTcMQQRu0G4II/KQQKNFGLQY=
+
+Name: org/lwjgl/opengl/NVVertexArrayRange.class
+SHA1-Digest: 8p9ACePkVkhHinRpT7Sca/kCgI4=
+
+Name: org/lwjgl/opengl/Display$5.class
+SHA1-Digest: wuXcUlwoz070abjOEDMQM6SirKA=
+
+Name: org/lwjgl/opengl/MacOSXGLCanvas.class
+SHA1-Digest: R5hAIind1yiz/o96y5Uo4bjDJTc=
+
+Name: org/lwjgl/opengl/IBMRasterposClip.class
+SHA1-Digest: fh229AiGF9Vy+oTlemADF6DK+XQ=
+
+Name: org/lwjgl/opengl/NVPackedDepthStencil.class
+SHA1-Digest: yfyev7jPpW0td8pZgBRnSBmt4v0=
+
+Name: org/lwjgl/opengl/LinuxCanvasImplementation.class
+SHA1-Digest: IzBlYhW8Y7mPLcwGbtQv+bsPTGk=
+
+Name: org/lwjgl/opengl/EXTVertexWeighting.class
+SHA1-Digest: Cxbsrw0LuSYF2e2LefJWiazpajQ=
+
+Name: org/lwjgl/opengl/ARBBlendFuncExtended.class
+SHA1-Digest: 9VCZXOzMQBg3m3OXwNgp4q/JwtE=
+
+Name: org/lwjgl/opengl/GL31.class
+SHA1-Digest: 1F3x98452Q9uDmwzB8+04PARpR4=
+
+Name: org/lwjgl/opengl/NVFramebufferMultisampleCoverage.class
+SHA1-Digest: ht/PbWf3FzLPF6njUvKRs7XTvDw=
+
+Name: org/lwjgl/opengl/WindowsPbufferPeerInfo.class
+SHA1-Digest: zNrfRi9WXqM89doEu5o0aqvjcpw=
+
+Name: org/lwjgl/BufferChecks.class
+SHA1-Digest: vwfyfmTA9ouLPbNQCYIb6pfikAE=
+
+Name: org/lwjgl/opengl/EXTVertexShader.class
+SHA1-Digest: VcK3QVXrZYP4h8tgygOmgRHA/l0=
+
+Name: org/lwjgl/opengl/ATISeparateStencil.class
+SHA1-Digest: 8OPiXjUx4b5f37VeOSdGxbB4604=
+
+Name: org/lwjgl/opengl/EXTFramebufferMultisample.class
+SHA1-Digest: iL9oD1+FjSA8IacvpOIEnFgc5jw=
+
+Name: org/lwjgl/opengl/ARBTextureMultisample.class
+SHA1-Digest: VSCIAUKNBUCLxgu0H+C4CglU8Ns=
+
+Name: org/lwjgl/opengl/ATITextureMirrorOnce.class
+SHA1-Digest: qyo2BjYmsxIZh2aYR1/1Uu9POWE=
+
+Name: org/lwjgl/opengl/ARBGeometryShader4.class
+SHA1-Digest: S2lOibMmXQ26xXZXp8icFlzJz8c=
+
+Name: org/lwjgl/opengl/ARBDepthClamp.class
+SHA1-Digest: GEg8IEIX96Z4/CQqsN+hfLjUN5Y=
+
+Name: org/lwjgl/opengl/MacOSXDisplay.class
+SHA1-Digest: fcxUD3EcMdlYdtTWkfB/G18weDg=
+
+Name: org/lwjgl/opengl/NVTextureCompressionVTC.class
+SHA1-Digest: iMSxixyyJPhO9uVnymstMoIf49A=
+
+Name: org/lwjgl/opengl/ATIPnTriangles.class
+SHA1-Digest: 6TqodnFecbyvkp4znYUamCXH4BI=
+
+Name: org/lwjgl/input/Keyboard$1.class
+SHA1-Digest: 22C2N+yeK1ZHsVbElSu2tUCOfhs=
+
+Name: org/lwjgl/opengl/WindowsCanvasImplementation.class
+SHA1-Digest: hqiA6L8NrBzSrX5eyB7M3TJeBM8=
+
+Name: org/lwjgl/opengl/GLSync.class
+SHA1-Digest: lG+Ey1UFTUz+0pb/tRUgzBDZA1A=
+
+Name: org/lwjgl/opengl/NVLightMaxExponent.class
+SHA1-Digest: bU743ikgUpISRe4Gs1sniwrXUfI=
+
+Name: org/lwjgl/opengl/ARBTextureRGB10_A2UI.class
+SHA1-Digest: 7Ngpye0N4rRvwJ5glLaDpdRYT44=
+
+Name: org/lwjgl/opengl/ARBPointParameters.class
+SHA1-Digest: tXwv6w3apwXPc3zSFlhbpSfGaZA=
+
+Name: org/lwjgl/NondirectBufferWrapper.class
+SHA1-Digest: PzQ7rEnttIK58z+P59XLXHxFppo=
+
+Name: org/lwjgl/opengl/ContextAttribsImplementation.class
+SHA1-Digest: H1Hh4vQyVA+f7gIzBxyDnPdUlYE=
+
+Name: org/lwjgl/opengl/Display.class
+SHA1-Digest: uq4BgnXj4A7wMM5+tfwX/9FFy0M=
+
+Name: org/lwjgl/input/OpenGLPackageAccess$1.class
+SHA1-Digest: hcFzAAC8RWXUI4fHNCEg0Kpt8+c=
+
+Name: org/lwjgl/input/OpenGLPackageAccess.class
+SHA1-Digest: mv2h5gjevz3KLXkA6SGWWTKCsqg=
+
+Name: org/lwjgl/input/Cursor$CursorElement.class
+SHA1-Digest: mpPODu2vzaUqCneiQdL6CapgnJY=
+
+Name: org/lwjgl/opengl/EXTSeparateSpecularColor.class
+SHA1-Digest: Wt2qn+akLn5YihSWAUmt5Y7VGJc=
+
+Name: org/lwjgl/opengl/HPOcclusionTest.class
+SHA1-Digest: E4HNxVHSlMWbQyi8aNGogvgWe1U=
+
+Name: org/lwjgl/opengl/EXTBlendColor.class
+SHA1-Digest: sZXalJnkZtgFxkfDYJTYC4USYh8=
+
+Name: org/lwjgl/opengl/WindowsKeycodes.class
+SHA1-Digest: GM/N6tSI5nvyqXWFIx4JE+cJaK0=
+
+Name: org/lwjgl/opengl/Display$4.class
+SHA1-Digest: 63p5CImzkDH7QXjgTKeuXN4RA0g=
+
+Name: org/lwjgl/opengl/MacOSXFrame.class
+SHA1-Digest: +RtY0iM3czaAgizX7h5RXNEnVHM=
+
+Name: org/lwjgl/opengl/EXTStencilClearTag.class
+SHA1-Digest: CLYf49FnzZLa4pCv3MtykdSZLX4=
+
+Name: org/lwjgl/opengl/WindowsContextAttribs.class
+SHA1-Digest: pQj4lqawFVTfJoX4DUrIl12lcQE=
+
+Name: org/lwjgl/opengl/GL30.class
+SHA1-Digest: ydi/Ge8Vb3GrMyv6EAdBJzlUe3Q=
+
+Name: org/lwjgl/opengl/Util.class
+SHA1-Digest: G8NL322G+rrKiUzGXvwl1TDYB/U=
+
+Name: org/lwjgl/opengl/NVTextureExpandNormal.class
+SHA1-Digest: o8ihrzYkpk278AF/Ju8PGJO7GtI=
+
+Name: org/lwjgl/opengl/AWTUtil.class
+SHA1-Digest: 2lCADDsLWYmJRWfF3vXqqnYUdzM=
+
+Name: org/lwjgl/opengl/ARBProvokingVertex.class
+SHA1-Digest: G2GaGqdmLvhZnVgxXXBSKbFBNao=
+
+Name: org/lwjgl/opengl/ARBTextureFloat.class
+SHA1-Digest: ecxDVOV17Pu8Mg7KksfhZm6AYC4=
+
+Name: org/lwjgl/opengl/ARBUniformBufferObject.class
+SHA1-Digest: Ix1p9t1kR53kyZKA3v1cRFCY52M=
+
+Name: org/lwjgl/opengl/APIUtils.class
+SHA1-Digest: lB2SDjAOyRwOYjdXNENZuXpQ9ig=
+
+Name: org/lwjgl/opengl/EXTPalettedTexture.class
+SHA1-Digest: 7tHgP+0FemznbT/iKJ+BnVz6Iiw=
+
+Name: org/lwjgl/opengl/EXTSharedTexturePalette.class
+SHA1-Digest: iBOyntyA14SNr+jRkiMBqZCQfSc=
+
+Name: org/lwjgl/opengl/GL12.class
+SHA1-Digest: FNZhaGAIcoZWVjKtQ8NUsgL/e/A=
+
+Name: org/lwjgl/SysImplementation.class
+SHA1-Digest: 0pSTSCpVgBH7MZf7z3QVg0YIDo0=
+
+Name: org/lwjgl/input/JInputController.class
+SHA1-Digest: 8lEG9+bVpZ2n59rZ6H45J95sL5g=
+
+Name: org/lwjgl/opengl/WindowsDisplay.class
+SHA1-Digest: r6rhtOKxt5HyXJOjOuhU42j69Cs=
+
+Name: org/lwjgl/opengl/NVProgram.class
+SHA1-Digest: SxPeY8j9P0Lsjcd3n7ge4IzBQcM=
+
+Name: org/lwjgl/opengl/EXTStencilTwoSide.class
+SHA1-Digest: SjUsfm8onHe9KLnhV0jc9DCt6g8=
+
+Name: org/lwjgl/opengl/EXTRescaleNormal.class
+SHA1-Digest: OEqFAyjlfB/AP8hiTAFcbdDXWwQ=
+
+Name: org/lwjgl/opengl/Context.class
+SHA1-Digest: +Kz/kBYO7mp7e3VQD5ln/swA/yQ=
+
+Name: org/lwjgl/opengl/ARBBufferObject.class
+SHA1-Digest: eA8wUjckYFq+QLiacwVUdqVQjTo=
+
+Name: org/lwjgl/opengl/ARBTransposeMatrix.class
+SHA1-Digest: KyO51Ha49WKXgD/gYXFTEhCTwJs=
+
+Name: org/lwjgl/LWJGLUtil$4.class
+SHA1-Digest: pM83UYhgWcGWiSZRhGsjGV00IXo=
+
+Name: org/lwjgl/opengl/EXTTextureSnorm.class
+SHA1-Digest: LXfC6SvdpU4IkjzmwlHDdDYsIP0=
+
+Name: org/lwjgl/openal/ALC10.class
+SHA1-Digest: tskrthsK9gf8DPCdgck44Mwmcec=
+
+Name: org/lwjgl/opengl/OpenGLException.class
+SHA1-Digest: Md0rVtU5dBtIeGY/HqEg+T0MJXs=
+
+Name: org/lwjgl/opengl/EXTStencilWrap.class
+SHA1-Digest: i4zGQAM0FyYCg66fENpq+rAjA0s=
+
+Name: org/lwjgl/opengl/NVVertexArrayRange2.class
+SHA1-Digest: TNLiks8t6Xgw/EjAhra8v/4UP+g=
+
+Name: org/lwjgl/opengl/SUNSliceAccum.class
+SHA1-Digest: sJAp+89Q94abHeZvPLu9CcbKOkY=
+
+Name: org/lwjgl/opengl/ARBTransformFeedback3.class
+SHA1-Digest: UEdICW+WVkllDL1qtAx9BfIvFe8=
+
+Name: org/lwjgl/opengl/GL40.class
+SHA1-Digest: VM2awSotsrbCKrIwijTWRR4lmGE=
+
+Name: org/lwjgl/opengl/EXTShaderImageLoadStore.class
+SHA1-Digest: WgX29ZbUZv46CYQcH0hds1BhmZc=
+
+Name: org/lwjgl/opengl/GLContext$1.class
+SHA1-Digest: vtefbPXmq6JROEu2eysWpueVMdU=
+
+Name: org/lwjgl/opengl/APPLEFloatPixels.class
+SHA1-Digest: n+JIcgfBw4qP5eVIlCQwKZEf0gw=
+
+Name: org/lwjgl/opengl/ARBFramebufferSRGB.class
+SHA1-Digest: WnWGfflSCz0R7yMV/k+XI6e80/g=
+
+Name: org/lwjgl/opengl/NVConditionalRender.class
+SHA1-Digest: gTRdUDxalM9Cpc72xUr+OB959zc=
+
+Name: org/lwjgl/input/Keyboard.class
+SHA1-Digest: OSkjtYPlHYV+jsjiIeez7uN+RK8=
+
+Name: org/lwjgl/opengl/EXTSeparateShaderObjects.class
+SHA1-Digest: +W23h1jEETdad0aqJnUxKfh35pA=
+
+Name: org/lwjgl/opengl/ARBColorBufferFloat.class
+SHA1-Digest: fDLEWCLwWouG/hIAP7xcctja4cA=
+
+Name: org/lwjgl/opengl/ATIFragmentShader.class
+SHA1-Digest: pPaCBzSTLLWqGM6raeGxTE5hhqw=
+
+Name: org/lwjgl/opengl/ATIDrawBuffers.class
+SHA1-Digest: ZBWDGvxyQEymwVGYYNtn7gBqKos=
+
+Name: org/lwjgl/opengl/EXTCompiledVertexArray.class
+SHA1-Digest: rM5w326MebZpQYvHP6tl7huPALU=
+
+Name: org/lwjgl/opengl/PointerWrapper.class
+SHA1-Digest: kUOnSJmDcCtgtkx7TS/3jCxn4Vk=
+
+Name: org/lwjgl/opengl/NVGpuProgram4.class
+SHA1-Digest: pkaYnyXKqn5RwXU9x/BE3iAI51s=
+
+Name: org/lwjgl/opengl/EXTTextureInteger.class
+SHA1-Digest: PWyGR78YK0NeAjRiDhZwX3tST0U=
+
+Name: org/lwjgl/opengl/ARBGpuShaderFp64.class
+SHA1-Digest: LLRCKaqx6jfSDLEFkRuWgY6oJjQ=
+
+Name: org/lwjgl/opengl/NVPrimitiveRestart.class
+SHA1-Digest: JgMBQiICr/E3QJ8QVxCg1vKXbsQ=
+
+Name: org/lwjgl/opengl/APPLERgb422.class
+SHA1-Digest: ytnO4RIGWxDrqkZeTDoIJO2S8PY=
+
+Name: org/lwjgl/opengl/LinuxKeyboard.class
+SHA1-Digest: IQKfpoWM+NWP5zPvUongKVWY0kY=
+
+Name: org/lwjgl/LWJGLUtil$3.class
+SHA1-Digest: zd44XKjIzW76KPWIDJrXbI3yoqs=
+
+Name: org/lwjgl/opengl/NVMultisampleFilterHint.class
+SHA1-Digest: 55dGhNKx9L6BXZvMxhmU2QE4S+k=
+
+Name: org/lwjgl/openal/ALCcontext.class
+SHA1-Digest: Ykxvm6n3+V4+rY+7UXwzIHLn4lY=
+
+Name: org/lwjgl/opengl/EXTBgra.class
+SHA1-Digest: H2SQycQABNuMD4HvLoJkurGPq1k=
+
+Name: org/lwjgl/opengl/MacOSXFrame$1.class
+SHA1-Digest: MnYPqpZhD0ER8rXYXYUxjwAyRL0=
+
+Name: org/lwjgl/opengl/WindowsDisplay$Rect.class
+SHA1-Digest: VB6IGOuRv8Bc/yHJNFAFz1CBzQI=
+
+Name: org/lwjgl/opengl/ARBFragmentShader.class
+SHA1-Digest: VLZ/LE+I1QW6gxIQNexpaQyB03I=
+
+Name: org/lwjgl/opengl/EXTTextureEnvCombine.class
+SHA1-Digest: KPSyV3eYGbfdQ6gD49TzRToDHD0=
+
+Name: org/lwjgl/opengl/EXTFogCoord.class
+SHA1-Digest: krNSXntD/CajBBjv1gWDWmpDoiQ=
+
+Name: org/lwjgl/opengl/ARBShadingLanguage100.class
+SHA1-Digest: 7KBrKYqivHGNu5O/+ViRVvKZ8+g=
+
+Name: org/lwjgl/opengl/Display$6.class
+SHA1-Digest: a6MF3j30lV81q60rbQ52JfqJEqI=
+
+Name: org/lwjgl/opengl/ARBFramebufferObject.class
+SHA1-Digest: AHBVp3GwRAIRD4x/mbyUbayzgLE=
+
+Name: org/lwjgl/opengl/EXTFramebufferObject.class
+SHA1-Digest: FIetP75uduOSjtp9FPihGUxm69I=
+
+Name: org/lwjgl/opengl/NVFogDistance.class
+SHA1-Digest: o6kBd9nXbL7kBDQnq3D2aC68y0s=
+
+Name: org/lwjgl/openal/AL10.class
+SHA1-Digest: Ou/aV9ItpEIzzR7rVBWM4QsCUxA=
+
+Name: org/lwjgl/input/Controller.class
+SHA1-Digest: aiHvBpvuiwdcGnmYMiLfBb+9IdY=
+
+Name: org/lwjgl/opengl/BaseReferences.class
+SHA1-Digest: Mp8dEcvpSgMU/8/jlbKYKa6KXcs=
+
+Name: org/lwjgl/opengl/AMDDrawBuffersBlend.class
+SHA1-Digest: qLmzDkYiJsD/U6QYaS+wfxOMdxE=
+
+Name: org/lwjgl/opengl/EXTBlendSubtract.class
+SHA1-Digest: qLQrVdALPv++60ys39rQc1VuMsU=
+
+Name: org/lwjgl/opengl/NVPointSprite.class
+SHA1-Digest: oOg4kLPaYRr+bAFhjaKY6VswsIs=
+
+Name: org/lwjgl/opengl/MacOSXAWTGLCanvasPeerInfo.class
+SHA1-Digest: d2ypcu+IOagJEvmoZVY3ku/T4yU=
+
+Name: org/lwjgl/opengl/GL21.class
+SHA1-Digest: VypgJ+VMi/yK10VZX9rBjJKEHsI=
+
+Name: org/lwjgl/opengl/EXTCgShader.class
+SHA1-Digest: Y1RGwL3cGzMoREZdA5hZQi1EK3g=
+
+Name: org/lwjgl/opengl/PixelFormat.class
+SHA1-Digest: 0poJwRrUObaqwPB5Z4MsHt8JO1U=
+
+Name: org/lwjgl/opengl/ARBDrawBuffers.class
+SHA1-Digest: a4N5ZIuFHRWuTe6BMNdTy8MrnqE=
+
+Name: org/lwjgl/opengl/MacOSXPeerInfo.class
+SHA1-Digest: ivYqq7k6buOz8hHvtSc0Om7uNsk=
+
+Name: org/lwjgl/opengl/NVVertexProgram3.class
+SHA1-Digest: h2cUBxsX85tVHz0hBlDNLd/x7ps=
+
+Name: org/lwjgl/opengl/APIUtils$5.class
+SHA1-Digest: e+rGoGoENEio47zhjZFMRUIqFws=
+
+Name: org/lwjgl/opengl/APPLETextureRange.class
+SHA1-Digest: zrJjwDuc+bIhLws37iVh6eDzR/k=
+
+Name: org/lwjgl/opengl/APIUtils$3.class
+SHA1-Digest: JZwP5xGnw8GqsLFYLmFETRMh8Qk=
+
+Name: org/lwjgl/opengl/SGISTextureLOD.class
+SHA1-Digest: N35niARcGnbsZymaKbWpwVPCpvY=
+
+Name: org/lwjgl/opengl/NVCopyImage.class
+SHA1-Digest: V2YFxqTquv0YNV0vAqJ5Xxfh8N4=
+
+Name: org/lwjgl/opengl/MacOSXPbufferPeerInfo.class
+SHA1-Digest: prKxdizl6wqoyVmgiTpTwjHZpPo=
+
+Name: org/lwjgl/opengl/ContextAttribs.class
+SHA1-Digest: SVnY5f3pJSCMcgU4UoRq1wtEASU=
+
+Name: org/lwjgl/opengl/ARBTextureEnvCombine.class
+SHA1-Digest: Gi27qPVFe2x6OICzxBixJlypaXs=
+
+Name: org/lwjgl/opengl/WindowsAWTGLCanvasPeerInfo.class
+SHA1-Digest: sn1IPtluGUv4Y64XPXrIFe58cvQ=
+
+Name: org/lwjgl/opengl/ContextImplementation.class
+SHA1-Digest: KxOd4NGwxZ8WvDLhqW2y1DPVv2s=
+
+Name: org/lwjgl/opengl/References.class
+SHA1-Digest: KNgXQfkyXr0R+7RAmakYgoCblsA=
+
+Name: org/lwjgl/opengl/APIUtils$1.class
+SHA1-Digest: 6zQA2T38ZKu7BNYLb5IO2GptHqQ=
+
+Name: org/lwjgl/opengl/EXTTextureSwizzle.class
+SHA1-Digest: QGg1mpTSh7osG9gdc4zAD3haX+c=
+
+Name: org/lwjgl/opengl/ARBShadow.class
+SHA1-Digest: E3WfkAysmK5hgXbj8QfKa8LEjeE=
+
+Name: org/lwjgl/opengl/APPLEVertexArrayRange.class
+SHA1-Digest: KR0K9yLZLE22UJrcbajgEpLNthc=
+
+Name: org/lwjgl/opengl/NVTransformFeedback.class
+SHA1-Digest: uN6ZsRBovvFBALNnKNDun/hqS4I=
+
+Name: org/lwjgl/opengl/ARBSync.class
+SHA1-Digest: jXLCshSEOdFVCX4+8FUhyEztnXg=
+
+Name: org/lwjgl/BufferUtils.class
+SHA1-Digest: v1XbCsYhxEw432xLLO47tjQVz2U=
+
+Name: org/lwjgl/opengl/GLUConstants.class
+SHA1-Digest: VzDsXMk2GlAc/yI+Tk9V0uFUfC4=
+
+Name: org/lwjgl/opengl/EXTBlendMinmax.class
+SHA1-Digest: tBNxzSf6G+vRPTtUyvZeUq2X+GE=
+
+Name: org/lwjgl/opengl/NVGpuShader5.class
+SHA1-Digest: duHT4Twg1++I32OfJccGlHhT0Wc=
+
+Name: org/lwjgl/opengl/ARBVertexProgram.class
+SHA1-Digest: qLvhfMVwAvkGwWnMd41fLtFVhwY=
+
+Name: org/lwjgl/WindowsSysImplementation$1.class
+SHA1-Digest: TI8GQ92Ym2grjSdpJXf2i4RaRac=
+
+Name: org/lwjgl/opengl/EXTBindableUniform.class
+SHA1-Digest: 9UJm4aSxZQ1K/C2Y9w90LdBoPu4=
+
+Name: org/lwjgl/opengl/ATITextureCompression3DC.class
+SHA1-Digest: hKBKjC8KyyqNdv7C+c/18BzsYhQ=
+
+Name: org/lwjgl/openal/Util.class
+SHA1-Digest: gdMgzTEcKvKVuPw5Dz3HaLODC0g=
+
+Name: org/lwjgl/opengl/ARBPixelBufferObject.class
+SHA1-Digest: fs7egY1ohKJyoUEU1GhSStnPnaw=
+
+Name: org/lwjgl/opengl/EXTPackedDepthStencil.class
+SHA1-Digest: MBn6fdGRRrmNWBm4NUEagIHtvPs=
+
+Name: org/lwjgl/opengl/ARBTextureGather.class
+SHA1-Digest: SC7kndonwhDW967Vs4N9OIYuR/o=
+
+Name: org/lwjgl/opengl/DisplayImplementation.class
+SHA1-Digest: nxxBgRYa7K+s0Zq8rP9wTFEgC3M=
+
+Name: org/lwjgl/opengl/AWTUtil$2.class
+SHA1-Digest: wWh5hs1z5DJAVhuUs7WjAM+ie8k=
+
+Name: org/lwjgl/opengl/APPLEYcbcr422.class
+SHA1-Digest: MYVNGOWzOPyx8CwLlpeGEwM9j3c=
+
+Name: org/lwjgl/opengl/GlobalLock.class
+SHA1-Digest: vhw2VTYJo3zDYwKkWxGsz5Unnss=
+
+Name: org/lwjgl/input/Keyboard$KeyEvent.class
+SHA1-Digest: Uq2py0SDvb5NFNMX2RG6KsrP3PU=
+
+Name: org/lwjgl/opengl/EXTTransformFeedback.class
+SHA1-Digest: eNixogNQaFRsWTdiJKDk/s90OWU=
+
+Name: org/lwjgl/opengl/ARBSampleShading.class
+SHA1-Digest: b29PB9RNDTmxqT5Aj00+nHrILMo=
+
+Name: org/lwjgl/opengl/GLContext.class
+SHA1-Digest: 5MER1uQtjoAiVaxcn4o8Aenlafs=
+
+Name: org/lwjgl/opengl/MacOSXDisplay$2.class
+SHA1-Digest: AOh2iOet7g0WZdlvVddGuS8Cnc8=
+
+Name: org/lwjgl/opengl/GL20.class
+SHA1-Digest: a3OpdmqDlEBd1W5iL72upsWw/ng=
+
+Name: org/lwjgl/opengl/ARBPointSprite.class
+SHA1-Digest: 2IT5t95eU6rYgOQVtAeh9NbGCAs=
+
+Name: org/lwjgl/opengl/NVFragmentProgram.class
+SHA1-Digest: HtM6tiuF5yH6k3H9QvgWvy1TjTY=
+
+Name: org/lwjgl/opengl/Display$1.class
+SHA1-Digest: hOoPMBRKWCglfYfTq9F8IX7lc98=
+
+Name: org/lwjgl/opengl/MacOSXCanvasPeerInfo.class
+SHA1-Digest: P2y7z1Ur89TxrzmOHA0CTXYITOU=
+
+Name: org/lwjgl/opengl/NVFragmentProgram2.class
+SHA1-Digest: gsapmrg7IM5Raaaa6LwgAaMz7fk=
+
+Name: org/lwjgl/opengl/EXTDrawRangeElements.class
+SHA1-Digest: 3xeXpqWyqXREFJMAg8vAD6OBRo8=
+
+Name: org/lwjgl/opengl/ARBTextureCubeMapArray.class
+SHA1-Digest: kDCWHkesmZwImlm9/Jwm2qL+EgM=
+
+Name: org/lwjgl/opengl/WindowsDisplay$1.class
+SHA1-Digest: o/RRbQqRyWwl3JAGEOa7MV4lOYA=
+
+Name: org/lwjgl/opengl/GREMEDYStringMarker.class
+SHA1-Digest: +khQd+Gq1yfv/LFuNYWIzAzcsUE=
+
+Name: org/lwjgl/opengl/NVVertexProgram2Option.class
+SHA1-Digest: 86Qvu4AbOvTorhxSh6NLbtuWXzg=
+
+Name: org/lwjgl/opengl/LinuxDisplay.class
+SHA1-Digest: nluj4zJ6qp/sX5VqW77UsP4dguk=
+
+Name: org/lwjgl/opengl/AWTCanvasImplementation.class
+SHA1-Digest: 6EFMN7XMgQZ44aus8itXqzURqsY=
+
+Name: org/lwjgl/opengl/EXTGpuProgramParameters.class
+SHA1-Digest: 8GP9RrAejGD0qRau5y94Ji0vh9s=
+
+Name: org/lwjgl/opengl/APPLEPackedPixels.class
+SHA1-Digest: zbOAH4OQUwl2Yl9uJGV3r16rGSc=
+
+Name: org/lwjgl/opengl/ARBTextureCubeMap.class
+SHA1-Digest: aqWTTrDQuKNfSBOehEJoMRIug88=
+
+Name: org/lwjgl/opengl/EXTSecondaryColor.class
+SHA1-Digest: EsmIu1CrDNwB58+p0DRj6aSuzJY=
+
+Name: org/lwjgl/opengl/APPLEAuxDepthStencil.class
+SHA1-Digest: ms5O3Zx+iK+ecMxfOixRtm8UhkY=
+
+Name: org/lwjgl/opengl/APIUtils$4.class
+SHA1-Digest: +y3OnPlVgOiptFXZZkJtiQqpZzY=
+
+Name: org/lwjgl/opengl/EventQueue.class
+SHA1-Digest: 3tGPivF3S2a6VPGxHLRox3XAhhA=
+
+Name: org/lwjgl/opengl/EXTTextureBufferObject.class
+SHA1-Digest: HLi4F0D2zkQPd0iNkBAWy506Oh4=
+
+Name: org/lwjgl/opengl/NVVertexBufferUnifiedMemory.class
+SHA1-Digest: 3gOqXgCklkDPvY+SeBi/D16KHCU=
+
+Name: org/lwjgl/opengl/GLContext$CapabilitiesCacheEntry.class
+SHA1-Digest: J63veDhesSD4aXbIHPhq37aHqzQ=
+
+Name: org/lwjgl/opengl/ARBDepthTexture.class
+SHA1-Digest: pTP4rf7bL9J78CD6QxweqET5kIE=
+
+Name: org/lwjgl/opengl/ATIMeminfo.class
+SHA1-Digest: 3i45iV40m+c6Lw3/WJI+laM+B58=
+
+Name: org/lwjgl/opengl/ARBMultisample.class
+SHA1-Digest: nNiT3j3Q2a76gheaLNlWkwp6F1s=
+
+Name: org/lwjgl/openal/AL.class
+SHA1-Digest: Lyckn11G0q7yLkpE+ySws9qd/es=
+
+Name: org/lwjgl/opengl/EXTTextureSharedExponent.class
+SHA1-Digest: rU7y96jbPYyVeEnbptFDhlV3Z5Y=
+
+Name: org/lwjgl/opengl/ARBInstancedArrays.class
+SHA1-Digest: HDpwm+qFAjKtzLrlooAdJi6+P7s=
+
+Name: org/lwjgl/opengl/ATIVertexAttribArrayObject.class
+SHA1-Digest: +MjTPMhwZ1/2GmccXyBw7pwPm50=
+
+Name: org/lwjgl/WindowsSysImplementation.class
+SHA1-Digest: K+jrNjtdNfhuCslEsmI0nNe+PPk=
+
+Name: org/lwjgl/opengl/ARBShaderSubroutine.class
+SHA1-Digest: INZR7qMc1eMF8XUx92qNytApvB0=
+
+Name: org/lwjgl/opengl/ARBVertexBufferObject.class
+SHA1-Digest: bV8gbJDCjK5xFOKUet4s6CsN9lQ=
+
+Name: org/lwjgl/opengl/SGISGenerateMipmap.class
+SHA1-Digest: +Tq4Jkhr6XgCwPaLDZevlO/3R30=
+
+Name: org/lwjgl/opengl/AWTGLCanvas.class
+SHA1-Digest: DHf/4bwXQZnN5BAr7ob02bAjYrQ=
+
+Name: org/lwjgl/openal/ALCdevice.class
+SHA1-Digest: IBr2a63FNiHbL4r3453RneOc/As=
+
+Name: org/lwjgl/opengl/MacOSXDisplay$1.class
+SHA1-Digest: yPK7smo83Rf6PBe10hekvJVemF8=
+
+Name: org/lwjgl/opengl/NVTextureEnvCombine4.class
+SHA1-Digest: A36lUL/W5P0vHPOT6Q2DSsIAjzU=
+
+Name: org/lwjgl/input/Mouse$1.class
+SHA1-Digest: Uk/MdYZKZzi3RarWNg3Riolh+OU=
+
+Name: org/lwjgl/opengl/EXTPackedPixels.class
+SHA1-Digest: GdxT9tx5QLPa350qVoprJZHuTsA=
+
