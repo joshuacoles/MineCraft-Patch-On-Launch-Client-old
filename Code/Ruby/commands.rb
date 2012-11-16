@@ -8,7 +8,6 @@ module Commands
   LAUNCH_COMMAND = '/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin/java -Xms512M -Xmx1024M -Xincgc -cp "/Applications/Minecraft.app/Contents/Resources/Java/MinecraftLauncher.jar" net.minecraft.LauncherFrame'
 
   def Commands.de_compile
-    Dir.chdir("../../../Users/joshuac/RubymineProjects/Patch on Launch/Code/")
     Main_Processes.retroguard()
     Main_Processes.fernflower()
     install()
@@ -36,15 +35,14 @@ module Main_Processes
 
   def Main_Processes.retroguard(run = true)
     #TODO Make more efficient
-    FileUtils.cp("vanilla/minecraft.jar", 'Work/RG/minecraft_Run.jar')
-    if run && !Basic_Commands.decompiled?("Work/RG/minecraft_Run.jar","a.class")
-      puts "Test"
-      Dir.chdir("Work/RG")
-      #puts "Running Retroguard in directory #{Dir.getwd()}"
+    FileUtils.cp("../../vanilla/minecraft.jar", '../Work/RG/minecraft_Run.jar')
+    if run && !Basic_Commands.decompiled?("../Work/RG/minecraft_Run.jar","a.class")
+      Dir.chdir("../Work/RG")
+      puts "Running Retroguard in directory #{Dir.getwd()}"
       Basic_Commands.run_shell_command("java -jar retroguard.jar minecraft_Run.jar minecraft_dobf.jar", false)
       #puts "Retroguard might have finished"
       FileUtils.rm("minecraft_Run.jar")
-      Dir.chdir("../../")
+      Dir.chdir("../../../")
     end
   end
   
@@ -53,7 +51,7 @@ module Main_Processes
     Dir.chdir("Decomp")
     Basic_Commands.run_shell_command("unzip minecraftJar.jar", false)
     FileUtils.rm("minecraftJar.jar")
-    Dir.chdir("..")
+    Dir.chdir("../")
   end
 
 
@@ -63,7 +61,7 @@ module Main_Processes
     puts `pwd`
     puts `ls `
     #puts "DECOMP DIR [#{Dir.entries("Decomp/")}]"
-    Basic_Commands.run_shell_command("javac -sourcepath Decomp/*.java ", true)
+    Basic_Commands.run_shell_command("javac -cp bin/minecraft.jar;bin/lwjgl.jar;bin/lwjgl_util.jar;bin/jinput.jar -sourcepath Decomp/*.java ", true)
   end
   
   def Main_Processes.patch(run)
@@ -76,8 +74,8 @@ module Main_Processes
   
   def Main_Processes.fernflower(run = true)
     #TODO Make more efficient
-    FileUtils.mv("Work/RG/minecraft_dobf.jar", "Work/FF/")
-    Dir.chdir("Work/FF")
+    FileUtils.mv("../Work/RG/minecraft_dobf.jar", "../Work/FF/")
+    Dir.chdir("../Work/FF")
     puts "About to try and run Fern Flower in #{Dir.getwd}"
     puts !Basic_Commands.decompiled?("minecraft_dobf.jar","a.class")
     if run && Basic_Commands.decompiled?("minecraft_dobf.jar","a.class")
