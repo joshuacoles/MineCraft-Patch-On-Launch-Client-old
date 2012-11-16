@@ -59,8 +59,8 @@ module Main_Processes
 
 
   def Main_Processes.compile()
-    puts `pwd`
     Dir.chdir("Work/FF/")
+    puts `pwd`
     puts `ls `
     #puts "DECOMP DIR [#{Dir.entries("Decomp/")}]"
     Basic_Commands.run_shell_command("javac -sourcepath Decomp/*.java ", true)
@@ -91,8 +91,8 @@ module Main_Processes
       FileUtils.mv("minecraftJar.jar","Decomp/")
       #FileUtils.rm("minecraft_dobf.jar")
     end
-    puts Dir.entries("Decomp").include?("minecraftJar.jar")
-    if Dir.entries("Decomp").include?("minecraftJar.jar") && Dir.entries("Decomp").size <= 3
+    puts " T1 #{Dir.entries("Decomp").include?("minecraftJar.jar")}"
+    if Dir.entries("Decomp").include?("minecraftJar.jar")
       unzip()
     end
     Dir.chdir("../../")
