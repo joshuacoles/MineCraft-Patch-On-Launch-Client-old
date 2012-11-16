@@ -10,7 +10,6 @@ module Commands
   LAUNCH_COMMAND = '/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin/java -Xms512M -Xmx1024M -Xincgc -cp "/Applications/Minecraft.app/Contents/Resources/Java/MinecraftLauncher.jar" net.minecraft.LauncherFrame'
 
   def Commands.de_compile
-    Dir.chdir("../../../Users/joshuac/RubymineProjects/Patch on Launch/Code/")
     Main_Processes.retroguard()
     Main_Processes.fernflower()
     install()
