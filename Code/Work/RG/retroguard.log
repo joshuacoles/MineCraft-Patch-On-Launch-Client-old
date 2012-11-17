@@ -6,7 +6,7 @@
 #
 # RetroGuard MCP v3.6.5
 #
-# Logfile created on Sun Nov 11 17:53:41 GMT 2012
+# Logfile created on Sat Nov 17 06:58:28 GMT 2012
 #
 # Jar file to be obfuscated:           minecraft_Run.jar
 # Target Jar file for obfuscated code: minecraft_dobf.jar
@@ -28,7 +28,7 @@
 #      Your class arw uses '.class' or calls java/lang/Class.forName(Ljava/lang/String;)Ljava/lang/Class;
 #      Your class arw calls the java/lang/Class method getMethod(Ljava/lang/String;[Ljava/lang/Class;)Ljava/lang/reflect/Method;
 #
-# Memory in use after class data structure built: 9201640 bytes
+# Memory in use after class data structure built: 8853208 bytes
 # Total memory available                        : 85000192 bytes
 #
 #

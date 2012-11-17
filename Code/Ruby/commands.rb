@@ -35,52 +35,26 @@ module Main_Processes
 
   def Main_Processes.retroguard(run = true)
     #TODO Make more efficient
-    FileUtils.cp("../../vanilla/minecraft.jar", '../Work/RG/minecraft_Run.jar')
-    if run && !Basic_Commands.decompiled?("../Work/RG/minecraft_Run.jar","a.class")
-      Dir.chdir("../Work/RG")
+    FileUtils.cp("../../vanilla/minecraft.jar", 'RG/minecraft_Run.jar')
+    if run && !Basic_Commands.zip_contains("RG/minecraft_Run.jar","a.class")
+      Dir.chdir("RG/")
       puts "Running Retroguard in directory #{Dir.getwd()}"
       Basic_Commands.run_shell_command("java -jar retroguard.jar minecraft_Run.jar minecraft_dobf.jar", false)
       #puts "Retroguard might have finished"
       FileUtils.rm("minecraft_Run.jar")
-      Dir.chdir("../../../")
+      Dir.chdir("../")
     end
   end
-  
-  def Main_Processes.unzip
-    puts("Unzipping")
-    Dir.chdir("Decomp")
-    Basic_Commands.run_shell_command("unzip minecraftJar.jar", false)
-    FileUtils.rm("minecraftJar.jar")
-    Dir.chdir("../")
-  end
 
-
-
-  def Main_Processes.compile()
-    Dir.chdir("Work/FF/")
-    puts `pwd`
-    puts `ls `
-    #puts "DECOMP DIR [#{Dir.entries("Decomp/")}]"
-    Basic_Commands.run_shell_command("javac -cp bin/minecraft.jar;bin/lwjgl.jar;bin/lwjgl_util.jar;bin/jinput.jar -sourcepath Decomp/*.java ", true)
-  end
-  
-  def Main_Processes.patch(run)
-    if run
-      #puts Dir.getwd()
-      Dir.chdir("Work/FF/Decomp")
-      Basic_Commands.run_shell_command("patch ../../../../Patches/* ", true)
-    end
-  end
-  
   def Main_Processes.fernflower(run = true)
     #TODO Make more efficient
-    FileUtils.mv("../Work/RG/minecraft_dobf.jar", "../Work/FF/")
-    Dir.chdir("../Work/FF")
+    FileUtils.mv("RG/minecraft_dobf.jar", "FF/")
+    Dir.chdir("FF/")
     puts "About to try and run Fern Flower in #{Dir.getwd}"
-    puts !Basic_Commands.decompiled?("minecraft_dobf.jar","a.class")
-    if run && Basic_Commands.decompiled?("minecraft_dobf.jar","a.class")
+    puts Basic_Commands.zip_contains("minecraft_dobf.jar","a.class")
+    if run && Basic_Commands.zip_contains("minecraft_dobf.jar","a.class")
       puts "  Fern Flower Running"
-      Basic_Commands.run_shell_command("java -jar fernflower.jar minecraft_dobf.jar Decomp", false)
+      Basic_Commands.run_shell_command("java -jar fernflower.jar minecraft_dobf.jar Decomp/", false)
       puts "  Fern Flower Run, contents of Directory is #{Dir.entries(Dir.getwd).inspect}"
       File.rename("Decomp/minecraft_dobf.jar", "Decomp/minecraftJar.jar")
       FileUtils.rm("minecraft_dobf.jar")
@@ -93,8 +67,37 @@ module Main_Processes
     if Dir.entries("Decomp").include?("minecraftJar.jar")
       unzip()
     end
-    Dir.chdir("../../")
+    Dir.chdir("../")
   end
+
+  def Main_Processes.unzip
+    puts("Unzipping")
+    Dir.chdir("Decomp/")
+    Basic_Commands.run_shell_command("unzip minecraftJar.jar", false)
+    FileUtils.rm("minecraftJar.jar")
+    Dir.chdir("../")
+  end
+
+
+
+  def Main_Processes.compile()
+    puts "on Comp"
+    Dir.chdir("FF/")
+    puts `pwd`
+    puts `ls `
+    #puts "DECOMP DIR [#{Dir.entries("Decomp/")}]"
+    Basic_Commands.run_shell_command("javac -cp bin/minecraft.jar;bin/lwjgl.jar;bin/lwjgl_util.jar;bin/jinput.jar -sourcepath Decomp/*.java ", true)
+  end
+  
+  def Main_Processes.patch(run)
+    if run
+      #puts Dir.getwd()
+      Dir.chdir("FF/Decomp")
+      Basic_Commands.run_shell_command("patch ../../../../Patches/* ", true)
+      Dir.chdir("../../")
+    end
+  end
+
 end
 
 module Basic_Commands
@@ -114,7 +117,7 @@ module Basic_Commands
     puts "Command completed [#{command}]"
   end
 
-  def Basic_Commands.decompiled?(jar,class_name)
+  def Basic_Commands.zip_contains(jar,class_name)
     Zip::ZipFile.open(jar) {
         |jarfile|
       if jarfile.find_entry(class_name) == nil
