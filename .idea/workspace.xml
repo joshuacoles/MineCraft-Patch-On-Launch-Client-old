@@ -2,1297 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d174dd08-c346-4048-b849-31f0b81fb215" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput copy.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/META-INF/MOJANG_C.DSA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/META-INF/MOJANG_C.SF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/AWTEnvironmentPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/AWTKeyMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/AWTKeyboard$Key.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/AWTKeyboard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/AWTMouse$Axis.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/AWTMouse$Button.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/AWTMouse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/AbstractComponent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/AbstractController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/ButtonUsage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/Component$Identifier$Axis.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/Component$Identifier$Button.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/Component$Identifier$Key.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/Component$Identifier.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/Component$POV.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/Component.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/Controller$PortType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/Controller$Type.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/Controller.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/ControllerEnvironment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/ControllerEvent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/ControllerListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/DIAbstractController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/DIComponent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/DIControllers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/DIDeviceObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/DIDeviceObjectData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/DIEffectInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/DIIdentifierMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/DIKeyboard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/DIMouse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/DataQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/DefaultControllerEnvironment$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/DefaultControllerEnvironment$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/DefaultControllerEnvironment$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/DefaultControllerEnvironment$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/DefaultControllerEnvironment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/DirectAndRawInputEnvironmentPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/DirectInputEnvironmentPlugin$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/DirectInputEnvironmentPlugin$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/DirectInputEnvironmentPlugin$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/DirectInputEnvironmentPlugin$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/DirectInputEnvironmentPlugin$ShutdownHook.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/DirectInputEnvironmentPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/DummyWindow.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/ElementType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/Event.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/EventQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/GenericDesktopUsage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/IDirectInput.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/IDirectInputDevice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/IDirectInputEffect.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/Keyboard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/KeyboardUsage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxAbsInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxAbstractController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxAxisDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxCombinedController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxComponent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxConstantFF.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxControllers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxDevice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxDeviceTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxDeviceThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxEnvironmentPlugin$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxEnvironmentPlugin$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxEnvironmentPlugin$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxEnvironmentPlugin$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxEnvironmentPlugin$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxEnvironmentPlugin$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxEnvironmentPlugin$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxEnvironmentPlugin$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxEnvironmentPlugin$ShutdownHook.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxEnvironmentPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxEvent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxEventComponent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxEventDevice$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxEventDevice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxForceFeedbackEffect$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxForceFeedbackEffect$UploadTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxForceFeedbackEffect$WriteTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxForceFeedbackEffect.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxInputID.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxJoystickAbstractController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxJoystickAxis.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxJoystickButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxJoystickDevice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxJoystickEvent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxJoystickPOV.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxKeyboard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxMouse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxNativeTypesMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxPOV.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/LinuxRumbleFF.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/Mouse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/NativeDefinitions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/OSXAbstractController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/OSXComponent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/OSXControllers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/OSXEnvironmentPlugin$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/OSXEnvironmentPlugin$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/OSXEnvironmentPlugin$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/OSXEnvironmentPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/OSXEvent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/OSXHIDDevice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/OSXHIDDeviceIterator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/OSXHIDElement.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/OSXHIDQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/OSXKeyboard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/OSXMouse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/PluginClassLoader$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/PluginClassLoader$JarFileFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/PluginClassLoader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/RawDevice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/RawDeviceInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/RawHIDInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/RawIdentifierMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/RawInputEnvironmentPlugin$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/RawInputEnvironmentPlugin$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/RawInputEnvironmentPlugin$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/RawInputEnvironmentPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/RawInputEventQueue$QueueThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/RawInputEventQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/RawKeyboard$Key.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/RawKeyboard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/RawKeyboardEvent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/RawKeyboardInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/RawMouse$Axis.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/RawMouse$Button.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/RawMouse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/RawMouseEvent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/RawMouseInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/Rumbler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/SetupAPIDevice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/Usage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/UsagePage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/UsagePair.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/Version.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/WinTabButtonComponent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/WinTabComponent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/WinTabContext.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/WinTabCursorComponent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/WinTabDevice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/WinTabEnvironmentPlugin$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/WinTabEnvironmentPlugin$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/WinTabEnvironmentPlugin$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/WinTabEnvironmentPlugin$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/WinTabEnvironmentPlugin$ShutdownHook.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/WinTabEnvironmentPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/input/WinTabPacket.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/util/Version.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/util/plugins/Plugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/util/plugins/PluginLoader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/util/plugins/Plugins.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/util/plugins/test/ClassRenderer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/util/plugins/test/ListUpdater.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/jinput/net/java/games/util/plugins/test/PluginTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/AWTEnvironmentPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/AWTKeyMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/AWTKeyboard$Key.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/AWTKeyboard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/AWTMouse$Axis.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/AWTMouse$Button.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/AWTMouse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/AbstractComponent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/AbstractController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/ButtonUsage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/Component$Identifier$Axis.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/Component$Identifier$Button.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/Component$Identifier$Key.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/Component$Identifier.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/Component$POV.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/Component.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/Controller$PortType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/Controller$Type.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/Controller.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/ControllerEnvironment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/ControllerEvent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/ControllerListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/DIAbstractController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/DIComponent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/DIControllers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/DIDeviceObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/DIDeviceObjectData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/DIEffectInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/DIIdentifierMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/DIKeyboard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/DIMouse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/DataQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/DefaultControllerEnvironment$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/DefaultControllerEnvironment$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/DefaultControllerEnvironment$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/DefaultControllerEnvironment$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/DefaultControllerEnvironment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/DirectAndRawInputEnvironmentPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/DirectInputEnvironmentPlugin$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/DirectInputEnvironmentPlugin$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/DirectInputEnvironmentPlugin$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/DirectInputEnvironmentPlugin$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/DirectInputEnvironmentPlugin$ShutdownHook.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/DirectInputEnvironmentPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/DummyWindow.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/ElementType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/Event.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/EventQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/GenericDesktopUsage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/IDirectInput.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/IDirectInputDevice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/IDirectInputEffect.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/Keyboard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/KeyboardUsage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxAbsInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxAbstractController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxAxisDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxCombinedController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxComponent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxConstantFF.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxControllers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxDevice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxDeviceTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxDeviceThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxEnvironmentPlugin$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxEnvironmentPlugin$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxEnvironmentPlugin$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxEnvironmentPlugin$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxEnvironmentPlugin$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxEnvironmentPlugin$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxEnvironmentPlugin$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxEnvironmentPlugin$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxEnvironmentPlugin$ShutdownHook.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxEnvironmentPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxEvent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxEventComponent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxEventDevice$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxEventDevice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxForceFeedbackEffect$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxForceFeedbackEffect$UploadTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxForceFeedbackEffect$WriteTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxForceFeedbackEffect.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxInputID.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxJoystickAbstractController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxJoystickAxis.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxJoystickButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxJoystickDevice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxJoystickEvent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxJoystickPOV.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxKeyboard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxMouse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxNativeTypesMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxPOV.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/LinuxRumbleFF.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/Mouse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/NativeDefinitions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/OSXAbstractController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/OSXComponent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/OSXControllers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/OSXEnvironmentPlugin$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/OSXEnvironmentPlugin$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/OSXEnvironmentPlugin$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/OSXEnvironmentPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/OSXEvent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/OSXHIDDevice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/OSXHIDDeviceIterator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/OSXHIDElement.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/OSXHIDQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/OSXKeyboard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/OSXMouse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/PluginClassLoader$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/PluginClassLoader$JarFileFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/PluginClassLoader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/RawDevice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/RawDeviceInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/RawHIDInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/RawIdentifierMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/RawInputEnvironmentPlugin$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/RawInputEnvironmentPlugin$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/RawInputEnvironmentPlugin$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/RawInputEnvironmentPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/RawInputEventQueue$QueueThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/RawInputEventQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/RawKeyboard$Key.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/RawKeyboard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/RawKeyboardEvent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/RawKeyboardInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/RawMouse$Axis.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/RawMouse$Button.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/RawMouse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/RawMouseEvent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/RawMouseInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/Rumbler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/SetupAPIDevice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/Usage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/UsagePage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/UsagePair.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/Version.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/WinTabButtonComponent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/WinTabComponent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/WinTabContext.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/WinTabCursorComponent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/WinTabDevice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/WinTabEnvironmentPlugin$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/WinTabEnvironmentPlugin$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/WinTabEnvironmentPlugin$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/WinTabEnvironmentPlugin$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/WinTabEnvironmentPlugin$ShutdownHook.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/WinTabEnvironmentPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/input/WinTabPacket.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/util/Version.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/util/plugins/Plugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/util/plugins/PluginLoader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/util/plugins/Plugins.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/util/plugins/test/ClassRenderer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/util/plugins/test/ListUpdater.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/net/java/games/util/plugins/test/PluginTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/BufferChecks.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/BufferUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/DefaultSysImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/J2SESysImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/LWJGLException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/LWJGLUtil$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/LWJGLUtil$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/LWJGLUtil$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/LWJGLUtil$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/LWJGLUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/LinuxSysImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/MacOSXSysImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/NondirectBufferWrapper$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/NondirectBufferWrapper$CachedBuffers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/NondirectBufferWrapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/Sys$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/Sys$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/Sys$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/Sys.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/SysImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/WindowsSysImplementation$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/WindowsSysImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/input/Controller.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/input/ControllerEvent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/input/Controllers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/input/Cursor$CursorElement.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/input/Cursor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/input/JInputController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/input/Keyboard$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/input/Keyboard$KeyEvent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/input/Keyboard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/input/Mouse$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/input/Mouse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/input/OpenGLPackageAccess$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/input/OpenGLPackageAccess$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/input/OpenGLPackageAccess.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/openal/AL.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/openal/AL10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/openal/AL11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/openal/ALC10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/openal/ALC11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/openal/ALCcontext.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/openal/ALCdevice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/openal/OpenALException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/openal/Util.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/AMDDrawBuffersBlend.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/AMDPerformanceMonitor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/AMDSeamlessCubemapPerTexture.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/AMDVertexShaderTessellator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/APIUtils$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/APIUtils$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/APIUtils$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/APIUtils$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/APIUtils$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/APIUtils$Buffers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/APIUtils$InfiniteCharSequence.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/APIUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/APPLEAuxDepthStencil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/APPLEClientStorage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/APPLEElementArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/APPLEFence.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/APPLEFloatPixels.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/APPLEFlushBufferRange.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/APPLEObjectPurgeable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/APPLEPackedPixels.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/APPLERgb422.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/APPLERowBytes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/APPLETextureRange.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/APPLEVertexArrayObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/APPLEVertexArrayRange.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/APPLEVertexProgramEvaluators.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/APPLEYcbcr422.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBBlendFuncExtended.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBBufferObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBColorBufferFloat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBCopyBuffer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBDepthBufferFloat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBDepthClamp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBDepthTexture.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBDrawBuffers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBDrawBuffersBlend.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBDrawElementsBaseVertex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBDrawIndirect.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBDrawInstanced.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBFragmentProgram.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBFragmentShader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBFramebufferObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBFramebufferSRGB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBGeometryShader4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBGpuShader5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBGpuShaderFp64.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBHalfFloatPixel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBHalfFloatVertex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBImaging.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBInstancedArrays.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBMapBufferRange.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBMatrixPalette.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBMultisample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBMultitexture.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBOcclusionQuery.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBOcclusionQuery2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBPixelBufferObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBPointParameters.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBPointSprite.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBProgram.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBProvokingVertex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBSampleShading.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBSamplerObjects.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBSeamlessCubeMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBShaderObjects.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBShaderSubroutine.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBShadingLanguage100.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBShadingLanguageInclude.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBShadow.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBShadowAmbient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBSync.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBTessellationShader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBTextureBorderClamp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBTextureBufferObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBTextureCompression.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBTextureCompressionBPTC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBTextureCompressionRGTC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBTextureCubeMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBTextureCubeMapArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBTextureEnvCombine.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBTextureEnvDot3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBTextureFloat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBTextureGather.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBTextureMirroredRepeat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBTextureMultisample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBTextureRGB10_A2UI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBTextureRectangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBTextureRg.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBTextureSwizzle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBTimerQuery.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBTransformFeedback2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBTransformFeedback3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBTransposeMatrix.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBUniformBufferObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBVertexArrayBgra.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBVertexArrayObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBVertexBlend.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBVertexBufferObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBVertexProgram.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBVertexShader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBVertexType2_10_10_10_REV.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ARBWindowPos.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ATIDrawBuffers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ATIElementArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ATIEnvmapBumpmap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ATIFragmentShader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ATIMapObjectBuffer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ATIMeminfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ATIPnTriangles.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ATISeparateStencil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ATITextFragmentShader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ATITextureCompression3DC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ATITextureEnvCombine3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ATITextureFloat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ATITextureMirrorOnce.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ATIVertexArrayObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ATIVertexAttribArrayObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ATIVertexStreams.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/AWTCanvasImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/AWTGLCanvas.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/AWTSurfaceLock$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/AWTSurfaceLock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/AWTUtil$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/AWTUtil$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/AWTUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/BaseReferences.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/Context.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ContextAttribs.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ContextAttribsImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ContextCapabilities.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ContextImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/Display$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/Display$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/Display$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/Display$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/Display$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/Display$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/Display.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/DisplayImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/DisplayMode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/Drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTAbgr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTBgra.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTBindableUniform.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTBlendColor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTBlendEquationSeparate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTBlendFuncSeparate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTBlendMinmax.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTBlendSubtract.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTCgShader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTCompiledVertexArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTDepthBoundsTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTDirectStateAccess.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTDrawBuffers2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTDrawInstanced.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTDrawRangeElements.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTFogCoord.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTFramebufferBlit.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTFramebufferMultisample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTFramebufferObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTFramebufferSRGB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTGeometryShader4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTGpuProgramParameters.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTGpuShader4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTMultiDrawArrays.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTPackedDepthStencil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTPackedFloat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTPackedPixels.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTPalettedTexture.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTPixelBufferObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTPointParameters.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTProvokingVertex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTRescaleNormal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTSecondaryColor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTSeparateShaderObjects.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTSeparateSpecularColor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTShaderImageLoadStore.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTSharedTexturePalette.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTStencilClearTag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTStencilTwoSide.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTStencilWrap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTTextureArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTTextureBufferObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTTextureCompressionLATC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTTextureCompressionRGTC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTTextureCompressionS3TC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTTextureEnvCombine.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTTextureEnvDot3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTTextureFilterAnisotropic.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTTextureInteger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTTextureLODBias.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTTextureMirrorClamp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTTextureRectangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTTextureSRGB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTTextureSharedExponent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTTextureSnorm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTTextureSwizzle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTTimerQuery.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTTransformFeedback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTVertexArrayBgra.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTVertexAttrib64bit.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTVertexShader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EXTVertexWeighting.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/EventQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/GL11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/GL12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/GL13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/GL14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/GL15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/GL20.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/GL21.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/GL30.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/GL31.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/GL32.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/GL33.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/GL40.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/GLChecks.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/GLContext$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/GLContext$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/GLContext$CapabilitiesCacheEntry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/GLContext.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/GLSync.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/GLUConstants.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/GREMEDYStringMarker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/GlobalLock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/HPOcclusionTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/IBMRasterposClip.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/InputImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/KeyboardEventQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/LinuxAWTGLCanvasPeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/LinuxCanvasImplementation$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/LinuxCanvasImplementation$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/LinuxCanvasImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/LinuxContextAttribs.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/LinuxContextImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/LinuxDisplay.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/LinuxDisplayPeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/LinuxEvent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/LinuxKeyboard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/LinuxKeycodes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/LinuxMouse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/LinuxPbufferPeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/LinuxPeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/MacOSXAWTGLCanvasPeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/MacOSXCanvasImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/MacOSXCanvasListener$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/MacOSXCanvasListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/MacOSXCanvasPeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/MacOSXContextAttribs.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/MacOSXContextImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/MacOSXDisplay$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/MacOSXDisplay$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/MacOSXDisplay$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/MacOSXDisplay.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/MacOSXDisplayPeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/MacOSXFrame$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/MacOSXFrame.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/MacOSXGLCanvas.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/MacOSXMouseEventQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/MacOSXPbufferPeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/MacOSXPeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/MouseEventQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVConditionalRender.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVCopyDepthToColor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVCopyImage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVDepthBufferFloat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVDepthClamp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVEvaluators.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVExplicitMultisample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVFence.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVFloatBuffer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVFogDistance.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVFragmentProgram.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVFragmentProgram2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVFramebufferMultisampleCoverage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVGeometryProgram4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVGpuProgram4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVGpuProgram5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVGpuShader5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVHalfFloat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVLightMaxExponent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVMultisampleFilterHint.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVOcclusionQuery.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVPackedDepthStencil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVParameterBufferObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVPixelDataRange.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVPointSprite.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVPrimitiveRestart.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVProgram.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVRegisterCombiners.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVRegisterCombiners2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVShaderBufferLoad.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVShaderBufferStore.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVTessellationProgram5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVTexgenReflection.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVTextureBarrier.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVTextureCompressionVTC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVTextureEnvCombine4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVTextureExpandNormal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVTextureRectangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVTextureShader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVTextureShader2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVTextureShader3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVTransformFeedback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVTransformFeedback2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVVertexArrayRange.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVVertexArrayRange2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVVertexAttribInteger64bit.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVVertexBufferUnifiedMemory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVVertexProgram.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVVertexProgram2Option.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVVertexProgram3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/NVXGpuMemoryInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/OpenGLException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/Pbuffer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/PeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/PixelFormat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/PointerWrapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/References.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/ReferencesStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/RenderTexture.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/SGISGenerateMipmap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/SGISTextureLOD.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/SUNSliceAccum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/StateStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/StateTracker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/Util.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/WindowsAWTGLCanvasPeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/WindowsCanvasImplementation$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/WindowsCanvasImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/WindowsContextAttribs.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/WindowsContextImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/WindowsDisplay$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/WindowsDisplay$Rect.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/WindowsDisplay.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/WindowsDisplayPeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/WindowsFileVersion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/WindowsKeyboard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/WindowsKeycodes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/WindowsMouse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/WindowsPbufferPeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/WindowsPeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/WindowsRegistry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/XRandR$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/XRandR$Screen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/opengl/XRandR.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/Color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/Dimension.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/Display$1FieldAccessor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/Display$1Sorter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/Display.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/Point.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/ReadableColor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/ReadableDimension.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/ReadablePoint.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/ReadableRectangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/Rectangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/Renderable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/Timer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/WaveData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/WritableColor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/WritableDimension.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/WritablePoint.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/WritableRectangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/XPMFile.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/Cylinder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/Disk.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/GLU.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/GLUtessellator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/GLUtessellatorCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/GLUtessellatorCallbackAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/MipMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/PartialDisk.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/PixelStoreState.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/Project.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/Quadric.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/Registry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/Sphere.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/Util.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/ActiveRegion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/CachedVertex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/Dict$DictLeq.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/Dict.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/DictNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/GLUface.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/GLUhalfEdge.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/GLUmesh.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/GLUtessellatorImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/GLUvertex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/Geom.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/Mesh.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/Normal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/PriorityQ$Leq.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/PriorityQ$PQhandleElem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/PriorityQ$PQnode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/PriorityQ.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/PriorityQHeap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/PriorityQSort$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/PriorityQSort$Stack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/PriorityQSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/Render$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/Render$FaceCount.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/Render$RenderFan.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/Render$RenderStrip.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/Render$RenderTriangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/Render$renderCallBack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/Render.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/Sweep$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/Sweep$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/Sweep.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/TessMono.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/glu/tessellation/TessState.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/input/ControllerAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/jinput/KeyMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/jinput/LWJGLEnvironmentPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/jinput/LWJGLKeyboard$Key.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/jinput/LWJGLKeyboard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/jinput/LWJGLMouse$Axis.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/jinput/LWJGLMouse$Button.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/jinput/LWJGLMouse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/vector/Matrix.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/vector/Matrix2f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/vector/Matrix3f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/vector/Matrix4f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/vector/Quaternion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/vector/ReadableVector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/vector/ReadableVector2f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/vector/ReadableVector3f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/vector/ReadableVector4f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/vector/Vector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/vector/Vector2f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/vector/Vector3f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/vector/Vector4f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/vector/WritableVector2f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/vector/WritableVector3f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lib/org/lwjgl/util/vector/WritableVector4f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl copy.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/META-INF/MOJANG_C.DSA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/META-INF/MOJANG_C.SF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/BufferChecks.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/BufferUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/DefaultSysImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/J2SESysImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/LWJGLException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/LWJGLUtil$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/LWJGLUtil$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/LWJGLUtil$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/LWJGLUtil$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/LWJGLUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/LinuxSysImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/MacOSXSysImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/NondirectBufferWrapper$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/NondirectBufferWrapper$CachedBuffers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/NondirectBufferWrapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/Sys$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/Sys$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/Sys$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/Sys.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/SysImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/WindowsSysImplementation$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/WindowsSysImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/input/Controller.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/input/ControllerEvent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/input/Controllers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/input/Cursor$CursorElement.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/input/Cursor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/input/JInputController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/input/Keyboard$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/input/Keyboard$KeyEvent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/input/Keyboard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/input/Mouse$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/input/Mouse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/input/OpenGLPackageAccess$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/input/OpenGLPackageAccess$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/input/OpenGLPackageAccess.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/openal/AL.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/openal/AL10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/openal/AL11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/openal/ALC10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/openal/ALC11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/openal/ALCcontext.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/openal/ALCdevice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/openal/OpenALException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/openal/Util.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/AMDDrawBuffersBlend.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/AMDPerformanceMonitor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/AMDSeamlessCubemapPerTexture.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/AMDVertexShaderTessellator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/APIUtils$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/APIUtils$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/APIUtils$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/APIUtils$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/APIUtils$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/APIUtils$Buffers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/APIUtils$InfiniteCharSequence.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/APIUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/APPLEAuxDepthStencil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/APPLEClientStorage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/APPLEElementArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/APPLEFence.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/APPLEFloatPixels.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/APPLEFlushBufferRange.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/APPLEObjectPurgeable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/APPLEPackedPixels.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/APPLERgb422.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/APPLERowBytes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/APPLETextureRange.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/APPLEVertexArrayObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/APPLEVertexArrayRange.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/APPLEVertexProgramEvaluators.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/APPLEYcbcr422.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBBlendFuncExtended.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBBufferObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBColorBufferFloat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBCopyBuffer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBDepthBufferFloat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBDepthClamp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBDepthTexture.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBDrawBuffers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBDrawBuffersBlend.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBDrawElementsBaseVertex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBDrawIndirect.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBDrawInstanced.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBFragmentProgram.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBFragmentShader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBFramebufferObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBFramebufferSRGB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBGeometryShader4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBGpuShader5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBGpuShaderFp64.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBHalfFloatPixel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBHalfFloatVertex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBImaging.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBInstancedArrays.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBMapBufferRange.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBMatrixPalette.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBMultisample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBMultitexture.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBOcclusionQuery.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBOcclusionQuery2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBPixelBufferObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBPointParameters.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBPointSprite.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBProgram.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBProvokingVertex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBSampleShading.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBSamplerObjects.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBSeamlessCubeMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBShaderObjects.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBShaderSubroutine.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBShadingLanguage100.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBShadingLanguageInclude.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBShadow.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBShadowAmbient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBSync.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBTessellationShader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBTextureBorderClamp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBTextureBufferObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBTextureCompression.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBTextureCompressionBPTC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBTextureCompressionRGTC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBTextureCubeMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBTextureCubeMapArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBTextureEnvCombine.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBTextureEnvDot3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBTextureFloat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBTextureGather.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBTextureMirroredRepeat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBTextureMultisample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBTextureRGB10_A2UI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBTextureRectangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBTextureRg.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBTextureSwizzle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBTimerQuery.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBTransformFeedback2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBTransformFeedback3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBTransposeMatrix.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBUniformBufferObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBVertexArrayBgra.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBVertexArrayObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBVertexBlend.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBVertexBufferObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBVertexProgram.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBVertexShader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBVertexType2_10_10_10_REV.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ARBWindowPos.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ATIDrawBuffers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ATIElementArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ATIEnvmapBumpmap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ATIFragmentShader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ATIMapObjectBuffer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ATIMeminfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ATIPnTriangles.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ATISeparateStencil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ATITextFragmentShader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ATITextureCompression3DC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ATITextureEnvCombine3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ATITextureFloat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ATITextureMirrorOnce.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ATIVertexArrayObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ATIVertexAttribArrayObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ATIVertexStreams.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/AWTCanvasImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/AWTGLCanvas.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/AWTSurfaceLock$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/AWTSurfaceLock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/AWTUtil$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/AWTUtil$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/AWTUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/BaseReferences.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/Context.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ContextAttribs.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ContextAttribsImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ContextCapabilities.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ContextImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/Display$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/Display$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/Display$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/Display$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/Display$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/Display$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/Display.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/DisplayImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/DisplayMode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/Drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTAbgr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTBgra.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTBindableUniform.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTBlendColor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTBlendEquationSeparate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTBlendFuncSeparate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTBlendMinmax.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTBlendSubtract.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTCgShader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTCompiledVertexArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTDepthBoundsTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTDirectStateAccess.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTDrawBuffers2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTDrawInstanced.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTDrawRangeElements.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTFogCoord.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTFramebufferBlit.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTFramebufferMultisample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTFramebufferObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTFramebufferSRGB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTGeometryShader4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTGpuProgramParameters.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTGpuShader4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTMultiDrawArrays.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTPackedDepthStencil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTPackedFloat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTPackedPixels.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTPalettedTexture.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTPixelBufferObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTPointParameters.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTProvokingVertex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTRescaleNormal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTSecondaryColor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTSeparateShaderObjects.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTSeparateSpecularColor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTShaderImageLoadStore.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTSharedTexturePalette.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTStencilClearTag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTStencilTwoSide.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTStencilWrap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTTextureArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTTextureBufferObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTTextureCompressionLATC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTTextureCompressionRGTC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTTextureCompressionS3TC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTTextureEnvCombine.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTTextureEnvDot3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTTextureFilterAnisotropic.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTTextureInteger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTTextureLODBias.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTTextureMirrorClamp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTTextureRectangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTTextureSRGB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTTextureSharedExponent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTTextureSnorm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTTextureSwizzle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTTimerQuery.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTTransformFeedback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTVertexArrayBgra.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTVertexAttrib64bit.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTVertexShader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EXTVertexWeighting.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/EventQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/GL11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/GL12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/GL13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/GL14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/GL15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/GL20.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/GL21.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/GL30.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/GL31.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/GL32.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/GL33.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/GL40.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/GLChecks.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/GLContext$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/GLContext$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/GLContext$CapabilitiesCacheEntry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/GLContext.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/GLSync.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/GLUConstants.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/GREMEDYStringMarker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/GlobalLock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/HPOcclusionTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/IBMRasterposClip.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/InputImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/KeyboardEventQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/LinuxAWTGLCanvasPeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/LinuxCanvasImplementation$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/LinuxCanvasImplementation$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/LinuxCanvasImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/LinuxContextAttribs.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/LinuxContextImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/LinuxDisplay.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/LinuxDisplayPeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/LinuxEvent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/LinuxKeyboard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/LinuxKeycodes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/LinuxMouse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/LinuxPbufferPeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/LinuxPeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/MacOSXAWTGLCanvasPeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/MacOSXCanvasImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/MacOSXCanvasListener$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/MacOSXCanvasListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/MacOSXCanvasPeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/MacOSXContextAttribs.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/MacOSXContextImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/MacOSXDisplay$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/MacOSXDisplay$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/MacOSXDisplay$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/MacOSXDisplay.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/MacOSXDisplayPeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/MacOSXFrame$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/MacOSXFrame.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/MacOSXGLCanvas.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/MacOSXMouseEventQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/MacOSXPbufferPeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/MacOSXPeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/MouseEventQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVConditionalRender.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVCopyDepthToColor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVCopyImage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVDepthBufferFloat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVDepthClamp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVEvaluators.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVExplicitMultisample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVFence.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVFloatBuffer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVFogDistance.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVFragmentProgram.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVFragmentProgram2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVFramebufferMultisampleCoverage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVGeometryProgram4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVGpuProgram4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVGpuProgram5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVGpuShader5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVHalfFloat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVLightMaxExponent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVMultisampleFilterHint.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVOcclusionQuery.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVPackedDepthStencil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVParameterBufferObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVPixelDataRange.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVPointSprite.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVPrimitiveRestart.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVProgram.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVRegisterCombiners.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVRegisterCombiners2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVShaderBufferLoad.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVShaderBufferStore.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVTessellationProgram5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVTexgenReflection.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVTextureBarrier.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVTextureCompressionVTC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVTextureEnvCombine4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVTextureExpandNormal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVTextureRectangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVTextureShader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVTextureShader2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVTextureShader3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVTransformFeedback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVTransformFeedback2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVVertexArrayRange.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVVertexArrayRange2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVVertexAttribInteger64bit.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVVertexBufferUnifiedMemory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVVertexProgram.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVVertexProgram2Option.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVVertexProgram3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/NVXGpuMemoryInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/OpenGLException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/Pbuffer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/PeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/PixelFormat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/PointerWrapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/References.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/ReferencesStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/RenderTexture.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/SGISGenerateMipmap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/SGISTextureLOD.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/SUNSliceAccum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/StateStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/StateTracker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/Util.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/WindowsAWTGLCanvasPeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/WindowsCanvasImplementation$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/WindowsCanvasImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/WindowsContextAttribs.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/WindowsContextImplementation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/WindowsDisplay$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/WindowsDisplay$Rect.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/WindowsDisplay.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/WindowsDisplayPeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/WindowsFileVersion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/WindowsKeyboard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/WindowsKeycodes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/WindowsMouse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/WindowsPbufferPeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/WindowsPeerInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/WindowsRegistry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/XRandR$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/XRandR$Screen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl/org/lwjgl/opengl/XRandR.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util copy.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/META-INF/MOJANG_C.DSA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/META-INF/MOJANG_C.SF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/Color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/Dimension.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/Display$1FieldAccessor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/Display$1Sorter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/Display.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/Point.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/ReadableColor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/ReadableDimension.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/ReadablePoint.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/ReadableRectangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/Rectangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/Renderable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/Timer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/WaveData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/WritableColor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/WritableDimension.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/WritablePoint.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/WritableRectangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/XPMFile.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/Cylinder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/Disk.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/GLU.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/GLUtessellator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/GLUtessellatorCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/GLUtessellatorCallbackAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/MipMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/PartialDisk.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/PixelStoreState.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/Project.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/Quadric.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/Registry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/Sphere.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/Util.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/ActiveRegion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/CachedVertex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/Dict$DictLeq.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/Dict.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/DictNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/GLUface.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/GLUhalfEdge.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/GLUmesh.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/GLUtessellatorImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/GLUvertex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/Geom.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/Mesh.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/Normal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/PriorityQ$Leq.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/PriorityQ$PQhandleElem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/PriorityQ$PQnode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/PriorityQ.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/PriorityQHeap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/PriorityQSort$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/PriorityQSort$Stack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/PriorityQSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/Render$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/Render$FaceCount.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/Render$RenderFan.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/Render$RenderStrip.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/Render$RenderTriangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/Render$renderCallBack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/Render.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/Sweep$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/Sweep$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/Sweep.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/TessMono.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/glu/tessellation/TessState.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/input/ControllerAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/jinput/KeyMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/jinput/LWJGLEnvironmentPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/jinput/LWJGLKeyboard$Key.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/jinput/LWJGLKeyboard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/jinput/LWJGLMouse$Axis.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/jinput/LWJGLMouse$Button.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/jinput/LWJGLMouse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/vector/Matrix.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/vector/Matrix2f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/vector/Matrix3f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/vector/Matrix4f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/vector/Quaternion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/vector/ReadableVector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/vector/ReadableVector2f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/vector/ReadableVector3f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/vector/ReadableVector4f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/vector/Vector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/vector/Vector2f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/vector/Vector3f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/vector/Vector4f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/vector/WritableVector2f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/vector/WritableVector3f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/Work/FF/lib/lwjgl_util/org/lwjgl/util/vector/WritableVector4f.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Minecraft-Patch-on-Launch.iws" />
@@ -1312,10 +21,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="commands.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="commands.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Code/Ruby/commands.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0">
+            <state line="37" column="36" selection-start="831" selection-end="831" vertical-scroll-proportion="0.37441498">
               <folding />
             </state>
           </provider>
@@ -1330,10 +39,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="run.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="run.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Code/Ruby/run.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="39" selection-start="247" selection-end="247" vertical-scroll-proportion="0.18200202">
+            <state line="6" column="22" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -1341,14 +50,19 @@
       </file>
     </leaf>
   </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Code/Ruby/commands.rb" />
         <option value="$PROJECT_DIR$/Code/Ruby/run.rb" />
+        <option value="$PROJECT_DIR$/Code/Ruby/commands.rb" />
       </list>
     </option>
   </component>
@@ -1402,15 +116,91 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Minecraft-Patch-on-Launch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Minecraft-Patch-on-Launch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Code/Work" />
   </component>
-  <component name="RunManager">
-    <list size="0" />
+  <component name="RunManager" selected="Ruby.Launch">
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="IrbRunConfigurationType" factoryName="IRB console">
+      <module name="" />
+      <IRB_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <IRB_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <IRB_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <IRB_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <IRB_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <IRB_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <IRB_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <IRB_RUN_CONFIG NAME="IS_RAILS_CONSOLE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Launch" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="Minecraft-Patch-on-Launch" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$PROJECT_DIR$/Code/Work" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/Code/Ruby/run.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Ruby.Launch" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
@@ -1449,11 +239,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297244" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2524013" sideWeight="0.3277559" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25506938" sideWeight="0.6653543" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25773746" sideWeight="0.67027557" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297244" sideWeight="0.49839914" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3297244" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1514,48 +304,30 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/Code/Ruby/commands.rb</url>
-          <line>50</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/Code/Ruby/commands.rb</url>
-          <line>53</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/Code/Ruby/commands.rb</url>
-          <line>59</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/Code/Ruby/commands.rb</url>
-          <line>63</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/Code/Ruby/commands.rb</url>
-          <line>69</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/Code/Ruby/commands.rb</url>
-          <line>77</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/Code/Ruby/commands.rb</url>
-          <line>84</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/Code/Ruby/commands.rb</url>
-          <line>88</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/Code/Ruby/commands.rb</url>
-          <line>76</line>
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Code/Ruby/commands.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/Ruby/run.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="39" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Code/Ruby/commands.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="0" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0">
@@ -1584,16 +356,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code/Ruby/commands.rb">
+    <entry file="file://$PROJECT_DIR$/Code/Ruby/run.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0">
+        <state line="6" column="22" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code/Ruby/run.rb">
+    <entry file="file://$PROJECT_DIR$/Code/Ruby/commands.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="39" selection-start="247" selection-end="247" vertical-scroll-proportion="0.18200202">
+        <state line="37" column="36" selection-start="831" selection-end="831" vertical-scroll-proportion="0.37441498">
           <folding />
         </state>
       </provider>
