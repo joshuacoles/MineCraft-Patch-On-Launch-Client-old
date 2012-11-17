@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a4041ab-2344-4974-abf1-7370bbb6b382" name="Default" comment="Set require java a retroguard" />
+    <list default="true" id="6a4041ab-2344-4974-abf1-7370bbb6b382" name="Default" comment="Set require java a retroguard">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Patch on Launch.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,7 +24,7 @@
       <file leaf-file-name="commands.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Code/commands.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="63" selection-start="1848" selection-end="1848" vertical-scroll-proportion="0.2597968">
+            <state line="69" column="63" selection-start="1848" selection-end="1848" vertical-scroll-proportion="0.021770682">
               <folding />
             </state>
           </provider>
@@ -186,14 +188,14 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="org.jetbrains.plugins.ruby.settings.RubyIdeSdkConfigurable" />
-    <property name="recentsLimit" value="5" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/git/checkouts/Minecraft-Patch-on-Launch" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="org.jetbrains.plugins.ruby.settings.RubyIdeSdkConfigurable" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/git/checkouts/Minecraft-Patch-on-Launch" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="Ruby.Launch">
     <configuration default="false" name="IRB console" type="IrbRunConfigurationType" factoryName="IRB console" temporary="true">
@@ -329,8 +331,8 @@
       <method />
     </configuration>
     <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Ruby.Launch" />
-      <item index="1" class="java.lang.String" itemvalue="IRB console.IRB console" />
+      <item index="0" class="java.lang.String" itemvalue="IRB console.IRB console" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.Launch" />
     </list>
     <recent_temporary>
       <list size="1">
@@ -397,7 +399,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.57972443" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.14674494" sideWeight="0.41759777" order="2" side_tool="true" content_ui="tabs" x="822" y="70" width="275" height="994" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2366127" sideWeight="0.076757535" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.24022347" sideWeight="0.981857" order="2" side_tool="false" content_ui="tabs" x="354" y="664" width="1440" height="471" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.24022347" sideWeight="0.981857" order="2" side_tool="false" content_ui="tabs" x="354" y="664" width="1440" height="471" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282123" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -543,7 +545,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Code/commands.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="63" selection-start="1848" selection-end="1848" vertical-scroll-proportion="0.2597968">
+        <state line="69" column="63" selection-start="1848" selection-end="1848" vertical-scroll-proportion="0.021770682">
           <folding />
         </state>
       </provider>
